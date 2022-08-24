@@ -1,5 +1,4 @@
 # Single-Linked-List (Assignment-3) 🥶
-<br />
 ## C Programs ☠️
 **Question 1** --> [insert_LL](https://github.com/saha-indranil/Linked-List-C/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/insert_LL.c) & [Insert Algo](https://github.com/saha-indranil/Linked-List-C/blob/main/Algorithms%20%F0%9F%93%9D/InsertAlgo.txt)<br />
 **Question 2** --> [delete_LL](https://github.com/saha-indranil/Linked-List-C/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/delete_LL.c) & [Delete Algo](https://github.com/saha-indranil/Linked-List-C/blob/main/Algorithms%20%F0%9F%93%9D/DeleteAlgo.txt)<br />
