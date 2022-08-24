@@ -1,0 +1,89 @@
+﻿UEM New Logo 
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+Semester: 3rd        
+                Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+Date of Assignment- 17.08.2022
+Date of Submission - 24.08.2022
+Section: cse A, B
+                                                                
+
+
+Assignment – III
+(All programs to be implemented in C)
+
+Topic : Single linked list
+1. Write a C program to implement the following functions for single linked list.
+   * createList
+•     insertAtFirst  
+   * insertAtLast 
+   * insertAtAny 
+   * displayList . 
+Mention the necessary algorithm.
+2. Write a C program to implement the following functions for single linked list.
+   * createList 
+•     deleteFromFirst  
+   * deleteFromLast 
+   * deleteFromAny 
+   * displayList . 
+Mention the necessary algorithm.
+3. Write a C program to implement all the insert and delete functions and display function along with an appropriate menu for a single linked list.
+4. Write a C program to store polynomial using linked list. Store the term in ascending order.
+5. Write a C function to count the number of node present in a linked list.
+6. Write a C program to print the odd number and even number nodes separately from a single linked list.
+
+
+
+
+
+
+
+
+
+
+
+
+Assignment – III
+(All programs to be implemented in Python Language)
+
+Topic : Single linked list
+1. Write a program to implement the following functions for single linked list.
+   * createList
+•     insertAtFirst  
+   * insertAtLast 
+   * insertAtAny 
+   * displayList . 
+2. Write a program to implement the following functions for single linked list.
+   * createList 
+•     deleteFromFirst  
+   * deleteFromLast 
+   * deleteFromAny 
+   * displayList . 
+3. Write a program to implement all the insert and delete functions and display function along with an appropriate menu for a single linked list.
+4. Write a program to store polynomial using linked list. Store the term in descending order.
+5. Write a function to count the number of node present in a linked list.
+6. Write a program to print the odd number and even number nodes separately from a single linked list.
+
+
+
+
+
+
+
+
+Instruction:
+1. Mention the following thing using A4 pages:
+   a. Program Objective
+   b. Algorithm (if it is asked)
+   c. Program Code.
+   d. Output
+
+
+
+
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.
