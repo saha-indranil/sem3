@@ -1,0 +1,41 @@
+*** Delete from Beginning ***
+Step 1: IF HEAD = NULL
+           Write UNDERFLOW
+           Go to Step 5
+        [END OF IF]
+Step 2: SET PTR = HEAD
+Step 3: SET HEAD = HEAD -> NEXT
+Step 4: FREE PTR
+Step 5: EXIT
+
+
+*** Delete from End ***
+Step 1: IF HEAD = NULL
+           Write UNDERFLOW
+           Go to Step 8
+        [END OF IF]
+Step 2: SET PTR = HEAD
+Step 3: Repeat Steps 4 and 5 while PTR -> NEXT != NULL
+Step 4:     SET PREPTR = PTR
+Step 5:     SET PTR = PTR -> NEXT
+        [END OF LOOP]
+Step 6: SET PREPTR -> NEXT = NULL
+Step 7: FREE PTR
+Step 8: EXIT
+
+
+*** Delete from Any ***
+Step 1: IF HEAD = NULL
+           Write UNDERFLOW
+           Go to Step 10
+        [END OF IF]
+Step 2: SET PTR = HEAD
+Step 3: SET I = 0
+Step 4: Repeat Steps 5, 6 and 7 while I < POSITION - 1
+Step 5:     SET PREPTR = PTR
+Step 6:     SET PTR = PTR -> NEXT
+Step 7:     SET I = I + 1
+        [END OF LOOP]
+Step 8: SET PREPTR -> NEXT = PTR -> NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT

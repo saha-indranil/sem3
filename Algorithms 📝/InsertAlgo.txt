@@ -1,0 +1,47 @@
+*** Insert at the Beginning ***
+Step 1: IF AVAIL = NULL
+    Write OVERFLOW
+    Go to Step 7
+    [END OF IF]
+Step 2: SET NEW_NODE = AVAIL
+Step 3: SET AVAIL = AVAIL NEXT
+Step 4: SET DATA = VAL
+Step 5: SET NEW_NODE NEXT = START
+Step 6: SET START = NEW_NODE
+Step 7: EXIT
+
+
+*** Insert at the End ***
+Step 1: IF AVAIL = NULL
+        Write OVERFLOW
+        Go to Step 10
+        [END OF IF]
+Step 2: SET NEW_NODE = AVAIL
+Step 3: SET AVAIL = AVAIL -> NEXT
+Step 4: SET NEW_NODE -> DATA = VAL
+Step 5: SET NEW_NODE -> NEXT = NULL
+Step 6: SET PTR = HEAD
+Step 7: Repeat Step 8 while PTR -> NEXT != NULL
+Step 8:     SET PTR = PTR -> NEXT
+        [END OF LOOP]
+Step 9: SET PTR -> NEXT = NEW_NODE
+Step 10: EXIT
+
+
+*** Insert at Any ***
+Step 1: IF AVAIL = NULL
+           Write OVERFLOW
+           Go to Step 12
+        [END OF IF]
+Step 2: SET NEW_NODE = AVAIL
+Step 3: SET AVAIL = AVAIL -> NEXT
+Step 4: SET NEW_NODE -> DATA = VAL
+Step 5: SET PTR = HEAD
+Step 6: SET I = 0
+Step 7: Repeat Steps 8 and 9 while I < POSITION-1
+Step 8:     SET PTR = PTR -> NEXT
+Step 9:     SET I = I + 1
+        [END OF LOOP]
+Step 10: SET NEW_NODE -> NEXT = PTR -> NEXT
+Step 11: SET PTR -> NEXT = NEW_NODE
+Step 12: EXIT
