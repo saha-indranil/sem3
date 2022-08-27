@@ -2,13 +2,16 @@
 ## Assignment- 4 🥵
 ### C Programs ☠️
 Write down this two header files before questions <br />
-[**singlylinkedlist.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/singlylinkedlist.h) and [**polylinkedlist.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polylinkedlist.h) <br /><br />
+[**singlylinkedlist.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/singlylinkedlist.h) and [**polynomialLL.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polylinkedlist.h) <br /><br />
 **Question 1** --> [reverse_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/reverse_SLL.c) & [Reverse Algo]()<br />
-**Question 2** --> [sortedMerge_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/sortedMerge_SLL.c) and [Sorted Merge Algo]()<br />
+**Question 2** --> [sortedMerge_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/sortedMerge_SLL.c) & [Sorted Merge Algo]()<br />
 **Question 3** --> [leftShift_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/leftShift_SLL.c)<br />
-**Question 4** --> <br />
+**Question 4** --> [polyAdd_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polyAdd_SLL.c)<br />
 **Question 5** --> <br />
 **Question 6** --> <br />
+**Question 7** --> <br />
+**Question 8** --> <br />
+**Question 9** --> <br />
 
 <br /><br />
 ## Assignment-3 🥶
