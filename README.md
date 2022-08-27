@@ -8,10 +8,10 @@ Write down this two header files before questions <br />
 **Question 3** --> [leftShift_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/leftShift_SLL.c)<br />
 **Question 4** --> [polyAdd_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polyAdd_SLL.c)<br />
 **Question 5** --> [swapNodes_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/swapNodes.c)<br />
-**Question 6** --> <br />
-**Question 7** --> <br />
-**Question 8** --> <br />
-**Question 9** --> <br />
+**Question 6** --> [detectCycle_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/detectCycle_SLL.c)<br />
+**Question 7** --> polyMultiplication_SLL<br />
+**Question 8** --> stack_LL<br />
+**Question 9** --> queue_LL<br />
 
 <br /><br />
 ## Assignment-3 🥶
