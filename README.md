@@ -1,5 +1,7 @@
-# Single-Linked-List 
+# Singly-Linked-List 
 ## Assignment- 4 🥵
+### Question 4❓👇
+[**Link**](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-4%40DSALAB.txt)
 ### C Programs ☠️
 Write down this two header files before questions <br />
 [**singlylinkedlist.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/singlylinkedlist.h) and [**polynomialLL.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polynomialLL.h) <br /><br />
@@ -10,8 +12,14 @@ Write down this two header files before questions <br />
 **Question 5** --> [swapNodes_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/swapNodes.c)<br />
 **Question 6** --> [detectCycle_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/detectCycle_SLL.c)<br />
 **Question 7** --> [polyMultiplication_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polyMultiplication_LL.c)<br />
-**Question 8** --> stack_LL<br />
-**Question 9** --> queue_LL<br />
+**Question 8** --> [stack_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/stack_SLL.c)<br />
+**Question 9** --> [queue_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/queue_SLL.c)<br /><br />
+
+### Python Programs 🐍
+**Question 1** --> <br />
+**Question 2** --> <br />
+**Question 3** --> <br />
+**Question 4** --> <br />
 
 <br /><br />
 ## Assignment-3 🥶
