@@ -16,10 +16,11 @@ Write down this two header files before questions <br />
 **Question 9** --> [queue_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/queue_SLL.c)<br /><br />
 
 ### Python Programs 🐍
-**Question 1** --> <br />
-**Question 2** --> <br />
-**Question 3** --> <br />
-**Question 4** --> <br />
+**Question 1** --> reverse_SLL <br />
+**Question 2** --> sortedMerge_SLL<br />
+**Question 3** --> polyAdd_SLL<br />
+**Question 4** --> swapNodes_SLL<br />
+**Question 5** --> detectLoop_SLL<br />
 
 <br /><br />
 ## Assignment-3 🥶
