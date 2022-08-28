@@ -4,7 +4,7 @@
 [**Link**](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-4%40DSALAB.txt)
 ### C Programs ☠️
 Write down this two header files before questions <br />
-[**singlylinkedlist.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/singlylinkedlist.h) and [**polynomialLL.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polynomialLL.h) <br /><br />
+[**singlylinkedlist.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/singlylinkedlist.h) and [**polynomialLL.h**](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polynomialLL.h) <br />
 **Question 1** --> [reverse_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/reverse_SLL.c) & [Reverse Algo]()<br />
 **Question 2** --> [sortedMerge_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/sortedMerge_SLL.c) & [Sorted Merge Algo]()<br />
 **Question 3** --> [leftShift_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/leftShift_SLL.c)<br />
@@ -13,16 +13,13 @@ Write down this two header files before questions <br />
 **Question 6** --> [detectCycle_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/detectCycle_SLL.c)<br />
 **Question 7** --> [polyMultiplication_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/polyMultiplication_LL.c)<br />
 **Question 8** --> [stack_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/stack_SLL.c)<br />
-**Question 9** --> [queue_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/queue_SLL.c)<br /><br />
-
+**Question 9** --> [queue_SLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/queue_SLL.c)<br />
 ### Python Programs 🐍
 **Question 1** --> [reverse_SLL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/reverse_SLL.py) <br />
 **Question 2** --> [sortedMerge_SLL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/sortedMerge_SLL.py)<br />
 **Question 3** --> [polyAdd_SLL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/polyAdd_SLL.py)<br />
 **Question 4** --> [swapNodes_SLL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/swapNodes_SLL.py)<br />
-**Question 5** --> detectLoop_SLL<br />
-
-<br /><br />
+**Question 5** --> [detectLoop_SLL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/detectCycle_SLL.py)<br />
 ## Assignment-3 🥶
 ### Question 3❓👇
 [**Link**](https://github.com/saha-indranil/Linked-List-C/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-3%40DSALAB.txt)
