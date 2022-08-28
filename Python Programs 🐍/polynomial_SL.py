@@ -26,7 +26,7 @@ class Polynomial:
             newNode.next = self.head
             self.head = newNode
         else:
-            while temp.next is None and ex < temp.next.expo:
+            while temp.next is not None and ex < temp.next.expo:
                 temp = temp.next
             newNode.next = temp.next
             temp.next = newNode
