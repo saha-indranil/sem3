@@ -1,6 +1,6 @@
-# Singly-Linked-List <img align="right" height="60" src="https://cdn.programiz.com/sites/tutorial2program/files/linked-list-with-data.png">
+# Singly-Linked-List
 ***
-## Assignment - 4 🥵
+## Assignment - 4 🥶
 > Question 4 👉🏼
 [_Link_](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-4%40DSALAB.txt)
 
@@ -14,7 +14,7 @@
 > Question 3 👉🏼
 [_Link_](https://github.com/saha-indranil/Linked-List-C/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-3%40DSALAB.txt)
 
-| Question | C ☠️ | Python 🐍 |
+| Question | C Programs ☠️ | Python Programs 🐍 |
 | ---|---|---|
 | 1 | [insert_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/insert_LL.c) & [Insert Algo](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/InsertAlgo.txt) | [insert_SL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/insert_SL.py) |
 | 2 |[delete_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/delete_LL.c) & [Delete Algo](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/DeleteAlgo.txt)|[delete_SL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/delete_SL.py)|
