@@ -1,7 +1,7 @@
 # Singly-Linked-List
 ***
 ## Assignment - 4 🥶
-> Question 4 👉🏼
+> 🔶 Question 4 👉🏼
 [_Link_](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-4%40DSALAB.txt)
 
 | C Programs 🐸 | Python Programs 🐍|
@@ -11,7 +11,7 @@
 ---
 
 ## Assignment - 3 🥶
-> Question 3 👉🏼
+> 🔶 Question 3 👉🏼
 [_Link_](https://github.com/saha-indranil/Linked-List-C/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-3%40DSALAB.txt)
 
 | Question | C Programs ☠️ | Python Programs 🐍 |
