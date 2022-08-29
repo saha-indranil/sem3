@@ -1,4 +1,5 @@
-# Singly-Linked-List
+# Singly-Linked-List <img align="right" height="60" src="https://cdn.programiz.com/sites/tutorial2program/files/linked-list-with-data.png">
+***
 ## Assignment - 4 🥵
 > Question 4 👉🏼
 [_Link_](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-4%40DSALAB.txt)
