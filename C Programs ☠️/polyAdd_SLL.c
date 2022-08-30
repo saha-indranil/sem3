@@ -27,6 +27,8 @@ NODE *polyAdd(NODE *p1, NODE *p2)
 {
     NODE *poly1 = p1, *poly2 = p2;
     NODE *sum = NULL;
+    if (poly1 == NULL && poly2 == NULL)
+        return sum;
     if (poly1 != NULL && poly2 == NULL)
         return poly2;
     if (poly1 == NULL && poly2 != NULL)
