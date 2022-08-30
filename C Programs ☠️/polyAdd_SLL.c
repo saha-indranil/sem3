@@ -30,9 +30,9 @@ NODE *polyAdd(NODE *p1, NODE *p2)
     if (poly1 == NULL && poly2 == NULL)
         return sum;
     if (poly1 != NULL && poly2 == NULL)
-        return poly2;
-    if (poly1 == NULL && poly2 != NULL)
         return poly1;
+    if (poly1 == NULL && poly2 != NULL)
+        return poly2;
     while (poly1 != NULL && poly2 != NULL)
     {
         if (poly1->expo > poly2->expo)
