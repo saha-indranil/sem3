@@ -1,5 +1,5 @@
 // Please write down this header file one time and
-// mention #include "linkedlist.h" in all other programs
+// mention #include "singlylinkedlist.h" in all other programs
 // We don't have to write this 50 lines of code in every code
 // 👇👇 Start writing from here 👇👇
 
