@@ -1,7 +1,7 @@
 *** Reverse a Linked List ***
 
 Step 1: INITIALIZE CURR = HEAD
-Step 2: INITIALIZE = NULL
+Step 2: INITIALIZE PREV = NULL
 Step 3: Repeat Steps 4, 5, 6 and 7 while CURR != NULL
 Step 4: 	SET TEMP = CURR -> NEXT
 Step 5: 	SET CURR -> NEXT = PREV
