@@ -25,14 +25,14 @@ int main()
 
 NODE *polyMult(NODE *p1, NODE *p2)
 {
+    NODE *product = NULL;
     if (p1 == NULL || p2 == NULL)
     {
         printf("Cannot Multiply");
-        exit(1);
+        return product;
     }
     NODE *poly1 = p1, *poly2 = p2;
     int co, ex;
-    NODE *product = NULL;
     while (poly1 != NULL)
     {
         while (poly2 != NULL)
