@@ -17,7 +17,7 @@ Step 6: Repeat Steps 7-12 while HEAD1 != NULL AND HEAD2 != NULL
 Step 7: 	SET TEMP = NULL
 Step 8: 	Repeat Steps 9,10 while HEAD1 != NULL AND HEAD1 -> DATA <= HEAD2 -> DATA
 Step 9: 		SET TEMP = HEAD1
-Step 10: 		HEAD1 = HEAD1 -> NEXT
+Step 10: 		SET HEAD1 = HEAD1 -> NEXT
 		[END OF LOOP]
 Step 11: 	SET TEMP -> NEXT = HEAD2
 Step 12: 	SWAP HEAD1 And HEAD2
