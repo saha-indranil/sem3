@@ -3,7 +3,7 @@
 // We don't have to write this 50 lines of code in every code
 // 👇👇 Start writing from here 👇👇
 
-// This is linkedlist.h file
+// This is singlylinkedlist.h file
 // This header file contains Structure of linked list,
 // createList and displayList function
 
