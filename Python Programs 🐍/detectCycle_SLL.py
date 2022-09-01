@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     if size >= 2:
         tail.next = myList.head.next
-        print("Linked List Successfully created eith Cycle")
+        print("Linked List Successfully created with Cycle")
         myList.detectCycle()
 
 
@@ -87,5 +87,5 @@ if __name__ == "__main__":
 # HEAD -> 51 -> 97 -> 3 -> 6 -> NULL
 
 # No Cycle in Linked List
-# Linked List Successfully created eith Cycle
+# Linked List Successfully created with Cycle
 # Cycle Detected at Node Data: 97
