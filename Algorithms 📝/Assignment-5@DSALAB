@@ -1,0 +1,97 @@
+﻿UEM New Logo 
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+Semester: 3rd        
+                Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+Date of Assignment-31 .08.2022
+Date of Submission -31 .08.2022
+Section: CSE A,CSE B
+                                                                
+
+
+Assignment – V
+(All programs to be implemented in C)
+
+Topic : Double linked list
+1. Write a C program to create a Double linked list along with the following functions:
+   a) to display the elements of a Double Linked List.
+   b) to add an element at beginning of a Double linked list.
+   c) to add an element at the end of a Double linked list.
+   d) to add an element at any user given position of a Double linked list.
+   e) to search a user given element in a Double linked list.
+   f) to count the number of nodes in a Double linked list.
+   g) to delete a node at beginning of a Double linked list.
+   h) to delete a node at end of a Double linked list.
+   i) to delete a node from any position of a Double linked list.
+(Create a menu bar using switch case statement in the main)
+Mention the necessary algorithm.
+2. Write a C program to merge two already sorted double list. 
+3. Write a C program to create a Double Circular linked list along with the following functions:
+   a) to display the elements of a Double Circular Linked List.
+   b) to add an element at beginning of a Double Circular linked list.
+   c) to add an element at the end of a Double Circular linked list.
+   d) to add an element at any user given position of a Double Circular linked list.
+   e) to search a user given element in a Double Circular linked list.
+   f) to count the number of nodes in a Double Circular linked list.
+   g) to delete a node at beginning of a Double Circular linked list.
+   h) to delete a node at end of a Double Circular linked list.
+   i) to delete a node from any position of a Double Circular linked list.
+  (Create a menu bar using switch case statement in the main)
+
+
+
+
+
+
+Assignment – V
+(All programs to be implemented using Python Language)
+
+Topic : Double Linked List
+1. Write a python program to create a Double linked list along with the following functions:
+   a) to display the elements of a Double Linked List.
+   b) to add an element at beginning of a Double linked list.
+   c) to add an element at the end of a Double linked list.
+   d) to add an element at any user given position of a Double linked list.
+   e) to search a user given element in a Double linked list.
+   f) to count the number of nodes in a Double linked list.
+   g) to delete a node at beginning of a Double linked list.
+   h) to delete a node at end of a Double linked list.
+   i) to delete a node from any position of a Double linked list.
+   (Create a menu bar for accessing the functions)
+2. Write a python program to create a Double Circular linked list along with the following functions:
+   a) to display the elements of a Double Circular Linked List.
+   b) to add an element at beginning of a Double Circular linked list.
+   c) to add an element at the end of a Double Circular linked list.
+   d) to add an element at any user given position of a Double Circular linked list.
+   e) to search a user given element in a Double Circular linked list.
+   f) to count the number of nodes in a Double Circular linked list.
+   g) to delete a node at beginning of a Double Circular linked list.
+   h) to delete a node at end of a Double Circular linked list.
+   i) to delete a node from any position of a Double Circular linked list.
+   (Create a menu bar for accessing the functions)
+
+
+
+
+
+
+
+
+
+
+Instruction:
+1. Mention the following thing using A4 pages:
+   a. Program Objective
+   b. Algorithm (if it is asked)
+   c. Program Code.
+   d. Output
+
+
+
+
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.
