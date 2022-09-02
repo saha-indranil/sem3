@@ -1,6 +1,18 @@
-<h1 align="center"> Singly-Linked-List </h1>
+<h1 align="center"> Linked-List 🔗 </h1>
 
 ***
+
+## Assignment - 5 🥶
+> 🔶 Question 5 👉
+[_Link_](https://github.com/saha-indranil/Linked-List/blob/main/Algorithms%20%F0%9F%93%9D/Assignment-5%40DSALAB.txt)
+
+| C Programs 🐸 | Python Programs 🐍|
+| -------------- | ----------------- |
+| [Doubly_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doubly_LL.c) |   |
+|   |   |
+|   |   |
+
+---
 
 ## Assignment - 4 🥶
 > 🔶 Question 4 👉🏼
