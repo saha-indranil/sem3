@@ -38,6 +38,6 @@
 
 | C Programs 🐸 | Python Programs 🐍|
 | -------------- | ----------------- |
-| [Doubly_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doubly_LL.c) |   |
-|   |   |
-|   |   |
+| 1. [Doubly_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doubly_LL.c) |   |
+| 2. SortedMerged_DLL  |   |
+| 3. [DoublyCircular_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doublyCircular_LL.c) |   |
