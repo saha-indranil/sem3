@@ -1,0 +1,132 @@
+*** ADD AT BEGINING ***
+Step 1: IF ptr = NULL
+    Write OVERFLOW
+    Go to Step 9
+    [END OF IF]
+Step 2: SET NEW_NODE = ptr
+Step 3: SET ptr = ptr -> NEXT
+Step 4: SET NEW_NODE -> DATA = VAL
+Step 5: SET NEW_NODE -> PREV = NULL
+Step 6: SET NEW_NODE -> NEXT = START
+Step 7: SET head -> PREV = NEW_NODE
+Step 8: SET head = NEW_NODE
+Step 9: EXIT
+
+--------------------------------------------------
+
+*** ADD AT THE END ***
+Step 1: IF PTR = NULL
+    Write OVERFLOW
+    Go to Step 11
+    [END OF IF]
+Step 2: SET NEW_NODE = PTR
+Step 3: SET PTR = PTR -> NEXT
+Step 4: SET NEW_NODE -> DATA = VAL
+Step 5: SET NEW_NODE -> NEXT = NULL
+Step 6: SET TEMP = START
+Step 7: Repeat Step 8 while TEMP -> NEXT != NULL
+Step 8: SET TEMP = TEMP -> NEXT
+    [END OF LOOP]
+Step 9: SET TEMP -> NEXT = NEW_NODE
+Step 10: SET NEW_NODE -> PREV = TEMP
+Step 11: EXIT
+
+------------------------------------------------------
+
+*** ADD AT ANY POSITION ***
+Step 1: IF PTR = NULL
+    Write OVERFLOW
+    Go to Step 15
+    [END OF IF]
+Step 2: SET NEW_NODE = PTR
+Step 3: SET PTR = PTR -> NEXT
+Step 4: SET NEW_NODE -> DATA = VAL
+Step 5: SET TEMP = START
+Step 6: REPEAT 7 to 10 until POS > 2
+Step 7: SET TEMP = TEMP -> NEXT
+Step 8: SET POS = POS - 1 
+STEP 9: IF TEMP = NULL
+STEP 10: WRITE "LESS THAN DESIRED NO. OF ELEMENTS"
+    GOTO STEP 15
+    [END OF IF]
+    [END OF LOOP]
+Step 11: SET NEW_NODE -> NEXT = TEMP -> NEXT
+Step 12: SET NEW_NODE -> PREV = TEMP
+Step 13: SET TEMP -> NEXT = NEW_NODE
+Step 14: SET TEMP -> NEXT -> PREV = NEW_NODE
+Step 15: EXIT
+
+----------------------------------------------------
+
+*** SEARCHING IN DOUBLE LINKED LIST ***
+Step 1: IF HEAD == NULL
+    WRITE "UNDERFLOW"
+    GOTO STEP 9
+    [END OF IF]
+Step 2: Set PTR = HEAD
+Step 3: Set COUNT = 0
+Step 4: Repeat step 5 to 7 while PTR != NULL
+Step 5:     SET COUNT = COUNT + 1
+Step 6:     IF PTR → DATA = ITEM
+                return COUNT
+            [END OF IF]
+Step 7:     PTR = PTR → NEXT
+        [END OF LOOP]
+Step 8: WRITE "ITEM NOT FOUND"
+Step 9: EXIT
+
+------------------------------------------------------
+
+*** COUNT NODES ***
+Step 1: Set PTR = HEAD
+Step 2: SET COUNT = 0
+Step 3: Repeat step 4 and 5 while PTR != NULL
+Step 4:     PTR = PTR → NEXT
+Step 5:     SET COUNT = COUNT + 1
+        [END OF LOOP]
+Step 6: return COUNT
+
+------------------------------------------------------
+
+*** DELETE FROM BEGINING ***
+STEP 1: IF HEAD = NULL
+        WRITE UNDERFLOW
+        GOTO STEP 6
+STEP 2: SET PTR = HEAD
+STEP 3: SET HEAD = HEAD → NEXT
+STEP 4: SET HEAD → PREV = NULL
+STEP 5: FREE PTR
+STEP 6: EXIT
+
+------------------------------------------------------
+
+*** DELETE FROM THE END ***
+Step 1: IF HEAD = NULL
+    Write UNDERFLOW
+    Go to Step 7
+[END OF IF]
+Step 2: SET TEMP = HEAD
+Step 3: REPEAT STEP 4 WHILE TEMP->NEXT != NULL
+Step 4: SET TEMP = TEMP->NEXT
+[END OF LOOP]
+Step 5: SET TEMP ->PREV-> NEXT = NULL
+Step 6: FREE TEMP
+Step 7: EXIT
+
+------------------------------------------------------
+
+*** DELETE FROM ANY ***
+Step 1: IF HEAD = NULL
+    Write UNDERFLOW
+    Go to Step 9
+    [END OF IF]
+Step 2: SET PTR = HEAD
+Step 3: Repeat Step 4 and 5 while POS > 1
+Step 4: SET PTR = PTR -> NEXT
+Step 5: SET POS = POS - 1
+    [END OF LOOP]
+Step 6: SET PREPTR = PTR -> NEXT
+Step 7: SET PREPTR -> NEXT = PTR -> NEXT
+Step 8: SET PTR -> NEXT -> PREV = PREPTR
+Step 9: FREE PTR
+Step 10: EXIT
