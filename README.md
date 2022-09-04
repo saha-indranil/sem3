@@ -40,4 +40,4 @@
 | -------------- | ----------------- |
 | 1. [Doubly_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doubly_LL.c) & DoublyLL Algo | 1. [Doubly_LL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/doubly_LL.py) |
 | 2. [SortedMerged_DLL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/sortedMerge_DLL.c)  |   |
-| 3. [DoublyCircular_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doublyCircular_LL.c) | 2. DoublyCircular_LL  |
+| 3. [DoublyCircular_LL](https://github.com/saha-indranil/Linked-List/blob/main/C%20Programs%20%E2%98%A0%EF%B8%8F/doublyCircular_LL.c) | 2. [DoublyCircular_LL](https://github.com/saha-indranil/Linked-List/blob/main/Python%20Programs%20%F0%9F%90%8D/doublyCircular_LL.py)  |
