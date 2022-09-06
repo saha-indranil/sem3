@@ -1,4 +1,4 @@
-*** ADD AT BEGINING ***
+*** ADD AT BEGINNING ***
 Step 1: IF ptr = NULL
     Write OVERFLOW
     Go to Step 9
