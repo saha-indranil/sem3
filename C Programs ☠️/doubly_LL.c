@@ -264,7 +264,6 @@ void delFromEnd(NODE **head)
         }
         (ptr->prev)->next = NULL;
         free(ptr);
-        ptr = NULL;
     }
 }
 
