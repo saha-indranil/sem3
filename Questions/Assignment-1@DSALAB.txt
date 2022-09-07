@@ -1,0 +1,85 @@
+﻿UEM New Logo 
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+Semester: 3rd        
+                Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+                                                                
+
+
+Assignment – I
+(All programs to be implemented in C and Python Programming Language)
+
+Topic : Dynamic Array
+1.        Write a C program to search an element in an Array using dynamic memory         allocation.
+2.        Write a C program to find the 3rd/user defined position based maximum element in an array using dynamic memory allocation.
+3.        Write a C program to find the minimum element in an array using dynamic         memory allocation.
+4.        Write a C program to search an element in a 2D-Array using dynamic memory allocation.
+5.        Write a C program to find the maximum element in a 2D-array using dynamic memory allocation.
+6.        Write a C program to find the minimum element in a 2D-array using dynamic memory allocation.
+7.        Write a C program to merge two sorted dynamic array.
+8.        Write a C program to merge two unsorted dynamic array in sorted order.
+9.        Write a C program to delete a range of data from a dynamic array.
+10.        Write a C program to modify the size of an array and utilize that during run         time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assignments for Python
+(List, Tuples, Set, Dictionary)
+(All programs to be implemented in Python Programming Language)
+
+
+
+
+List:
+1. Reverse a list in Python
+2. Concatenate two lists index-wise.
+3. Turn every item of a list into its square.
+4. Add new item to list after a specified item.
+5. Remove all occurrences of a specific item from a list.
+
+
+
+
+Tuples:
+
+1. Access value 20 from the tuple.
+2. Unpack the tuple into 4 variables.
+3. Copy specific elements from one tuple to a new tuple.
+4. Counts the number of occurrences of item ‘x’ from a tuple.
+5. Check if all items in the tuple are the same.
+
+
+Set:
+1. Add a list of elements to a set.
+2. Get Only unique items from two sets.
+3. Remove items from the set at once.
+4. Return a set of elements present in Set A or B, but not both.
+5. Check if two sets have any elements in common. If yes, display the common elements.
+
+
+
+Dictionary:
+1. Convert two lists into a dictionary.
+2. Merge two Python dictionaries into one.
+3. Create a dictionary by extracting the keys from a given dictionary.
+4. Delete a list of keys from a dictionary.
+5. Check if a value exists in a dictionary.

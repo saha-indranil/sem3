@@ -1,0 +1,62 @@
+﻿UEM New Logo 
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+Semester: 3rd        
+                Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+Date of Assignment- 10.08.2022
+Date of Submission - 17.08.2022
+Section: CSE A, B
+                                                                
+
+
+Assignment – II
+(All programs to be implemented in C Programming Language)
+
+Topic : Stack & Queue
+1. Write a C program to implement stack using dynamic array and perform the following operation • PUSH() • POP() • PEEK() • DISPLAY(). Mention the necessary algorithm.
+2.        Write a C program to implement queue using dynamic array. Execute all the   necessary functions of queue.
+3.        Write a C program to reverse a string using appropriate ADT.
+4.        Write a C program to implement the concept of double stack, where both                            end can be used for operations.
+5.        Write a C program to find the palindrome using appropriate ADT to implement a more powerful version of the is_palindrome() function. As a reminder, this function implements simple palindome verification. Here is the signature and documentation for the function:
+* bool is_palindrome(char *text)
+            Return true if text is a palindrome, false otherwise. A palindrome is a string that is identical to itself when reversed. For example, "madam", "dad", and "abba" are palindromes. Note: the empty string is a palindrome, as is every string of length one.
+           Your solution should ignore whitespace and punctuation, and all comparisons should be case-insensitive. Include some tests in your main function. Examples of valid palindromes:
+Example- "", "a", "aa", "aaa", "aba", "abba", "Taco cat", "Madam, I'm Adam", "A man, a plan, a canal: Panama", "Doc, note: I dissent. A fast never prevents a fatness. I diet on cod."
+6.        Write a C program to implement queue using stack.
+7.        Write a C program to implement circular queue.
+ASSIGMENT 1I 
+(Python)
+(All programs to be implemented in Python Programming Language)
+
+
+1. Write a Python program to implement a stack.
+2. Write a Python program to implement a queue.
+3. Write a Python program to reverse a string using stack (using array).
+4. Write a Python program to implement circular queue using array.
+5. Given a stack of boxes in different colors. Write a python function that accepts the stack of boxes and removes those boxes having color other than the primary colors (Red, Green and Blue) from the stack. The removed boxes should be en-queued into a new queue and returned. The original stack should have only the boxes having primary colors and the order must be maintained.
+Perform case sensitive string comparison wherever necessary.
+Note: Consider the queue to be of the same size as that of the original stack.
+
+
+
+
+
+
+
+
+Instruction:
+1. Mention the following thing using A4 pages:
+   a. Program Objective
+   b. Algorithm (if it is asked)
+   c. Program Code.
+   d. Output
+
+
+
+
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.

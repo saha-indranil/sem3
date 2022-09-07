@@ -157,17 +157,32 @@ void insertAtAny(NODE **head)
 {
     NODE *newNode = (NODE *)malloc(sizeof(NODE));
     NODE *ptr = *head;
-    int num, pos, i = 1;
+    int num, pos;
     printf("Enter Position of insertion: ");
     scanf("%d", &pos);
+    if (pos < 1 || ptr == NULL)
+    {
+        printf("Invalid!\n");
+        return;
+    }
+    if (pos == 1)
+    {
+        insertAtFirst(head);
+        return;
+    }
+    while (pos > 2)
+    {
+        ptr = ptr->next;
+        pos--;
+        if (ptr == NULL)
+        {
+            printf("Index Out of Bound!\n");
+            return;
+        }
+    }
     printf("Enter the data: ");
     scanf("%d", &num);
     newNode->data = num;
-    while (i < pos - 1)
-    {
-        ptr = ptr->next;
-        i++;
-    }
     newNode->next = ptr->next;
     ptr->next = newNode;
 }
@@ -212,14 +227,29 @@ void deleteFromAny(NODE **head)
     }
     NODE *ptr, *preptr;
     ptr = *head;
-    int pos, i = 0;
+    int pos;
     printf("Enter Position of Deletation: ");
     scanf("%d", &pos);
-    while (i < pos - 1)
+    if (pos < 1)
+    {
+        printf("Invalid Position!\n");
+        return;
+    }
+    if (pos == 1)
+    {
+        deleteFromFirst(head);
+        return;
+    }
+    while (pos > 1)
     {
         preptr = ptr;
         ptr = ptr->next;
-        i++;
+        pos--;
+        if (ptr == NULL)
+        {
+            printf("Index Out of Bound!\n");
+            return;
+        }
     }
     preptr->next = ptr->next;
     free(ptr);

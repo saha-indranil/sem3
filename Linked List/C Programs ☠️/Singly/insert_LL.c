@@ -122,17 +122,32 @@ void insertAtAny(NODE **head)
 {
     NODE *newNode = (NODE *)malloc(sizeof(NODE));
     NODE *ptr = *head;
-    int num, pos, i = 1;
+    int num, pos;
     printf("Enter Position of insertion: ");
     scanf("%d", &pos);
+    if (pos < 1 || ptr == NULL)
+    {
+        printf("Invalid!\n");
+        return;
+    }
+    if (pos == 1)
+    {
+        insertAtFirst(head);
+        return;
+    }
+    while (pos > 2)
+    {
+        ptr = ptr->next;
+        pos--;
+        if (ptr == NULL)
+        {
+            printf("Index Out of Bound!\n");
+            return;
+        }
+    }
     printf("Enter the data: ");
     scanf("%d", &num);
     newNode->data = num;
-    while (i < pos - 1)
-    {
-        ptr = ptr->next;
-        i++;
-    }
     newNode->next = ptr->next;
     ptr->next = newNode;
 }
