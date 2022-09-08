@@ -21,7 +21,7 @@ Topic : Dynamic Array
 7.        Write a C program to merge two sorted dynamic array.
 8.        Write a C program to merge two unsorted dynamic array in sorted order.
 9.        Write a C program to delete a range of data from a dynamic array.
-10.        Write a C program to modify the size of an array and utilize that during run         time.
+10.       Write a C program to modify the size of an array and utilize that during run time.
 
 
 
