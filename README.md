@@ -1,7 +1,7 @@
 <h1 align="center"> DSA01 </h1>
 
 
-Assignment 1 
+[Assignment 1](https://github.com/saha-indranil/DSA01/blob/main/Questions/README1.md)
 <br>
 Assignment 2
 <br>
