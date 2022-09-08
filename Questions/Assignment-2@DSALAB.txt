@@ -11,23 +11,24 @@ Section: CSE A, B
                                                                 
 
 
-Assignment – II
+                              Assignment – II
 (All programs to be implemented in C Programming Language)
 
 Topic : Stack & Queue
 1. Write a C program to implement stack using dynamic array and perform the following operation • PUSH() • POP() • PEEK() • DISPLAY(). Mention the necessary algorithm.
-2.        Write a C program to implement queue using dynamic array. Execute all the   necessary functions of queue.
-3.        Write a C program to reverse a string using appropriate ADT.
-4.        Write a C program to implement the concept of double stack, where both                            end can be used for operations.
-5.        Write a C program to find the palindrome using appropriate ADT to implement a more powerful version of the is_palindrome() function. As a reminder, this function implements simple palindome verification. Here is the signature and documentation for the function:
-* bool is_palindrome(char *text)
-            Return true if text is a palindrome, false otherwise. A palindrome is a string that is identical to itself when reversed. For example, "madam", "dad", and "abba" are palindromes. Note: the empty string is a palindrome, as is every string of length one.
-           Your solution should ignore whitespace and punctuation, and all comparisons should be case-insensitive. Include some tests in your main function. Examples of valid palindromes:
-Example- "", "a", "aa", "aaa", "aba", "abba", "Taco cat", "Madam, I'm Adam", "A man, a plan, a canal: Panama", "Doc, note: I dissent. A fast never prevents a fatness. I diet on cod."
-6.        Write a C program to implement queue using stack.
-7.        Write a C program to implement circular queue.
-ASSIGMENT 1I 
-(Python)
+2. Write a C program to implement queue using dynamic array. Execute all the   necessary functions of queue.
+3. Write a C program to reverse a string using appropriate ADT.
+4. Write a C program to implement the concept of double stack, where both                            end can be used for operations.
+5. Write a C program to find the palindrome using appropriate ADT to implement a more powerful version of the is_palindrome() function. As a reminder, this function implements simple palindome verification. Here is the signature and documentation for the function:
+   * bool is_palindrome(char *text)
+   Return true if text is a palindrome, false otherwise. A palindrome is a string that is identical to itself when reversed. For example, "madam", "dad", and "abba" are palindromes. Note: the empty string is a palindrome, as is every string of length one.
+   Your solution should ignore whitespace and punctuation, and all comparisons should be case-insensitive. Include some tests in your main function. Examples of valid palindromes:
+   Example- "", "a", "aa", "aaa", "aba", "abba", "Taco cat", "Madam, I'm Adam", "A man, a plan, a canal: Panama", "Doc, note: I dissent. A fast never prevents a fatness. I diet on cod."
+6. Write a C program to implement queue using stack.
+7. Write a C program to implement circular queue.
+                              
+                              
+                              ASSIGMENT II  (Python)
 (All programs to be implemented in Python Programming Language)
 
 

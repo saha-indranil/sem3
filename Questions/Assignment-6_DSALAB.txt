@@ -1,0 +1,48 @@
+             University of Engineering & Management, Kolkata
+             Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+             Semester: 3rd
+             Paper Name: Data Structure & Algorithm Laboratory
+             Paper Code: PCC - CS391
+             Date of Assignment - 07.09.2022
+             Date of Submission - 07.09.2022
+             Section: CSE A, CSE B
+
+
+                                 Assignment – VI
+                       (All programs to be implemented in C)
+
+Topic: Application of Stack & Queue
+1. Write a C program to evaluate a postfix expression.
+2. Write a C program to convert an infix expression to postfix expression.
+3. Write a C program to implement Priority Queue.
+4. Write a C program to calculate factorial with the help of stack.
+5. Write a C program to solve the tower of Hanoi using stack.
+6. Write a C program to reverse a string using stack.
+7. Write a C program to validate the parenthesis of an expression.
+8. Write a C program to validate an html file.
+
+
+
+                                 Assignment – VI
+                    (All programs to be implemented in Python)
+
+Topic: Application of Stack & Queue
+1. Write a Python program to calculate factorial with the help of stack.
+2. Write a Python program to solve the tower of Hanoi using stack.
+3. Write a Python program to reverse a string using stack.
+4. Write a Python program to validate the parenthesis of an expression.
+
+
+
+                                  Instruction:
+1. Mention the following thing using A4 pages:
+  a. Program Objective
+  b. Algorithm (if it is asked)
+  c. Program Code.
+  d. Output
+
+
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.
