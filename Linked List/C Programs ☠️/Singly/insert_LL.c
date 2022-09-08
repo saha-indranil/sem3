@@ -125,7 +125,7 @@ void insertAtAny(NODE **head)
     int num, pos;
     printf("Enter Position of insertion: ");
     scanf("%d", &pos);
-    if (pos < 1 || ptr == NULL)
+    if (pos < 1)
     {
         printf("Invalid!\n");
         return;
