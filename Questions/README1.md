@@ -1,3 +1,9 @@
+<h1 align="center"> Assignment 1 </h1>
+
+>💠 Dynamic Memory Allocation 👉🏼 [Question](https://github.com/saha-indranil/DSA01/blob/main/Questions/Assignment-1%40DSALAB.txt)
+
+
+## C Programs
 1.  [searchEle](https://github.com/saha-indranil/DSA01/blob/main/Dynamic-Memory-Allocation/searchEle.c)
 2.  [findPos](https://github.com/saha-indranil/DSA01/blob/main/Dynamic-Memory-Allocation/findPos.c)
 3.  [findMin](https://github.com/saha-indranil/DSA01/blob/main/Dynamic-Memory-Allocation/findMin.c)
