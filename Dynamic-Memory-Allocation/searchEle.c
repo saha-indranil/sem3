@@ -45,3 +45,13 @@ int main()
     free(arr);
     return 0;
 }
+
+// OUTPUT
+// Enter Total Number of Elements: 5
+// Enter Array[0]: 1
+// Enter Array[1]: 2
+// Enter Array[2]: 3
+// Enter Array[3]: 4
+// Enter Array[4]: 5
+// Enter an Element to find index: 3
+// Element found at index 2

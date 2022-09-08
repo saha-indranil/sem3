@@ -12,9 +12,9 @@ Assignment – I
 (All programs to be implemented in C and Python Programming Language)
 
 Topic : Dynamic Array
-1.        Write a C program to search an element in an Array using dynamic memory         allocation.
+1.        Write a C program to search an element in an Array using dynamic memory allocation.
 2.        Write a C program to find the 3rd/user defined position based maximum element in an array using dynamic memory allocation.
-3.        Write a C program to find the minimum element in an array using dynamic         memory allocation.
+3.        Write a C program to find the minimum element in an array using dynamic memory allocation.
 4.        Write a C program to search an element in a 2D-Array using dynamic memory allocation.
 5.        Write a C program to find the maximum element in a 2D-array using dynamic memory allocation.
 6.        Write a C program to find the minimum element in a 2D-array using dynamic memory allocation.
