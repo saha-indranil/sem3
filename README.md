@@ -3,7 +3,7 @@
 
 [Assignment 1](https://github.com/saha-indranil/DSA01/blob/main/Questions/README1.md)
 <br>
-Assignment 2
+[Assignment 2](https://github.com/saha-indranil/DSA01/blob/main/Questions/README2.md)
 <br>
 [Assignment 3](https://github.com/saha-indranil/DSA01/blob/main/Questions/README3.md)
 <br>

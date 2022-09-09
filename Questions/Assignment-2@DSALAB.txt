@@ -36,7 +36,12 @@ Topic : Stack & Queue
 2. Write a Python program to implement a queue.
 3. Write a Python program to reverse a string using stack (using array).
 4. Write a Python program to implement circular queue using array.
-5. Given a stack of boxes in different colors. Write a python function that accepts the stack of boxes and removes those boxes having color other than the primary colors (Red, Green and Blue) from the stack. The removed boxes should be en-queued into a new queue and returned. The original stack should have only the boxes having primary colors and the order must be maintained.
+5. Given a stack of boxes in different colors. Write a python function
+that accepts the stack of boxes and removes those boxes having 
+color other than the primary colors (Red, Green and Blue) from the stack.
+The removed boxes should be en-queued into a new queue and returned.
+The original stack should have only the boxes having primary colors
+and the order must be maintained.
 Perform case sensitive string comparison wherever necessary.
 Note: Consider the queue to be of the same size as that of the original stack.
 
