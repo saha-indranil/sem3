@@ -17,8 +17,8 @@
 ---
 
 ## Python Programs
-1. [stack]()
-1. [queue]()
-1. [revString]()
-1. [circularQueue]()
-1. [color]()
+1. [stack](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/stack.py)
+1. [queue](https://github.com/saha-indranil/DSA01/blob/main/Queue/Python%20Programs/queue.py)
+1. [revString](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/revString.py)
+1. [circularQueue](https://github.com/saha-indranil/DSA01/blob/main/Queue/Python%20Programs/circularQueue.py)
+1. [color](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/color.py)
