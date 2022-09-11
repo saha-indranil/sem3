@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 #include <string.h>
 
 struct stack
@@ -12,13 +13,11 @@ struct stack
 };
 
 void createStack(struct stack *s);
-int isEmpty(struct stack *s);
-int isFull(struct stack *s);
 void push(struct stack *s, char val);
 char pop(struct stack *s);
 char peek(struct stack *s);
-int isOpening(char c);
-int isMatching(char a, char b);
+bool isOpening(char c);
+bool isMatching(char a, char b);
 
 int main()
 {
@@ -39,7 +38,7 @@ int main()
         }
         else
         {
-            if (isEmpty(s))
+            if (s->top == -1)
             {
                 flag = 0;
                 break;
@@ -53,12 +52,12 @@ int main()
                 pop(s);
         }
     }
-    if (isEmpty(s))
+    if (s->top == -1)
         flag = 1;
     if (flag == 1)
-        printf("\nParentheses are matching!!!");
+        printf("Parentheses are matching!!!");
     else
-        printf("\nParentheses are not matching");
+        printf("Parentheses are not matching");
     return 0;
 }
 
@@ -66,32 +65,13 @@ void createStack(struct stack *s)
 {
     s->top = -1;
     s->arr = (char *)malloc(s->size * sizeof(char));
-    printf("Stack is created successfully\n");
-}
-
-int isEmpty(struct stack *s)
-{
-    if (s->top == -1)
-    {
-        return 1;
-    }
-    return 0;
-}
-
-int isFull(struct stack *s)
-{
-    if (s->top == s->size - 1)
-    {
-        return 1;
-    }
-    return 0;
 }
 
 void push(struct stack *s, char val)
 {
-    if (isFull(s))
+    if (s->top == s->size - 1)
     {
-        printf("Stack Overflow! Cannot push %c to the stack\n", val);
+        printf("Stack Overflow!\n", val);
     }
     else
     {
@@ -102,10 +82,10 @@ void push(struct stack *s, char val)
 
 char pop(struct stack *s)
 {
-    if (isEmpty(s))
+    if (s->top == -1)
     {
-        printf("Stack Underflow! Cannot pop from the stack\n");
-        return -1;
+        printf("Stack Underflow!\n");
+        return ' ';
     }
     else
     {
@@ -117,7 +97,7 @@ char pop(struct stack *s)
 
 char peek(struct stack *s)
 {
-    if (isEmpty(s))
+    if (s->top == -1)
     {
         printf("Stack Underflow\n");
         return -1;
@@ -129,40 +109,30 @@ char peek(struct stack *s)
     }
 }
 
-int isOpening(char c)
+bool isOpening(char c)
 {
     if (c == '(' || c == '{' || c == '[')
-    {
-        return 1;
-    }
-    return 0;
+        return true;
+    return false;
 }
 
-int isMatching(char a, char b)
+bool isMatching(char a, char b)
 {
     if (a == '(' && b == ')')
-    {
-        return 1;
-    }
+        return true;
     if (a == '{' && b == '}')
-    {
-        return 1;
-    }
+        return true;
     if (a == '[' && b == ']')
-    {
-        return 1;
-    }
-    return 0;
+        return true;
+    return false;
 }
 
-// 1st TEST:
+// OUTPUT 1
 // Enter Parentheses:
-// ()[{()}]{}
-// Stack is created successfully
+// {[[]()]}
 // Parentheses are matching!!!
 
-// 2nd TEST
+// OUTPUT 2
 // Enter Parentheses:
-// ({)}
-// Stack is created successfully
+// [(])
 // Parentheses are not matching
