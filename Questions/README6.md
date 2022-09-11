@@ -6,11 +6,11 @@
 
 ## C Programs
 
-1. [evaluatePostfix]()
-2. [infixToPostfix]()
+1. [evaluatePostfix](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/evaluatePostfix.c)
+2. [infixToPostfix](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/infixToPostfix.c)
 3. []()
 4. []()
-5. [towerOfHanoi]()
+5. [towerOfHanoi](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/towerOfHanoi.c)
 6. []()
-7. [parenthesis]()
+7. [parenthesis](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/parenthesis.c)
 8. []()
