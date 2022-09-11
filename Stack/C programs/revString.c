@@ -1,4 +1,5 @@
-// Write a C program to reverse a string using appropriate ADT.
+// Write a C program to reverse a string using appropriate ADT. (Assignment 2)
+// Write a C program to reverse a string using stack. (Assignment 6)
 
 #include <stdio.h>
 #include <string.h>
@@ -14,7 +15,7 @@ int main()
     char str[MAX];
     int len, i;
     printf("Enter a String: ");
-    scanf("%s", str);
+    gets(str);
     len = strlen(str);
     for (i = 0; i < len; i++)
     {
@@ -30,8 +31,13 @@ int main()
 
 void push(char c)
 {
-    top++;
-    stack[top] = c;
+    if (top == MAX - 1)
+        printf("Stack Overflow!");
+    else
+    {
+        top++;
+        stack[top] = c;
+    }
 }
 
 char pop(void)
@@ -50,5 +56,5 @@ char pop(void)
 }
 
 // OUTPUT
-// Enter a String: mango
-// Reversed String is: ognam
+// Enter a String: good day
+// Reversed String is: yad doog

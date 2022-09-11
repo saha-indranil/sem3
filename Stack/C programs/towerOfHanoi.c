@@ -1,3 +1,5 @@
+// Write a C program to solve the tower of Hanoi using stack.
+
 #include <stdio.h>
 void move(int, char, char, char);
 int main()

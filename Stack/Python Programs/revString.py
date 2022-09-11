@@ -1,6 +1,9 @@
-# Write a Python program to reverse a string using stack(using array).
+# Write a Python program to reverse a string using stack (using array). (Assignment 2)
+# Write a program to reverse a string using stack. (Assignment 6)
 
 def reverse_string(str):
+    print("Original String: "+str)
+    print("Reversed String: ", end='')
     stack = []
     for i in str:
         stack.append(i)
@@ -9,8 +12,9 @@ def reverse_string(str):
     print()
 
 
-reverse_string("hello")
+reverse_string("hello world")
 
 
 # OUTPUT
-# olleh
+# Original String: hello world
+# Reversed String: dlrow olleh

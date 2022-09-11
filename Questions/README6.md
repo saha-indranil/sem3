@@ -9,8 +9,17 @@
 1. [evaluatePostfix](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/evaluatePostfix.c)
 2. [infixToPostfix](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/infixToPostfix.c)
 3. []()
-4. []()
+4. [factorial]()
 5. [towerOfHanoi](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/towerOfHanoi.c)
-6. []()
+6. [revString]()
 7. [parenthesis](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/parenthesis.c)
 8. []()
+
+---
+
+## Python Programs
+
+1. 
+1. 
+1. [revString]()
+1. 

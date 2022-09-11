@@ -1,4 +1,4 @@
-// Check Valid Parentheses or not
+// Write a C program to validate the parenthesis of an expression.
 
 #include <stdio.h>
 #include <stdlib.h>
