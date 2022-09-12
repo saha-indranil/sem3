@@ -22,7 +22,7 @@ bool isMatching(char a, char b);
 int main()
 {
     char str[10];
-    printf("Enter Parentheses:\n");
+    printf("Enter Parenthesis:\n");
     scanf("%s", str);
 
     struct stack *s;
@@ -55,9 +55,9 @@ int main()
     if (s->top == -1)
         flag = 1;
     if (flag == 1)
-        printf("Parentheses are matching!!!");
+        printf("Parenthesis are matching!!!");
     else
-        printf("Parentheses are not matching");
+        printf("Parenthesis are not matching");
     return 0;
 }
 

@@ -22,4 +22,4 @@
 1. [Factorial](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/factorial.py)
 1. [Tower of Hanoi](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/towerOfHanoi.py)
 1. [Reverse String](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/revString.py)
-1. Validate Parenthesis [Uploading Soon...]
+1. [Validate Parenthesis](https://github.com/saha-indranil/DSA01/blob/main/Stack/Python%20Programs/parenthesis.py)

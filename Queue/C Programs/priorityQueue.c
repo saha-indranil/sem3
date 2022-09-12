@@ -1,3 +1,5 @@
+// Write a C program to implement Priority Queue.
+
 #include <stdio.h>
 #include <limits.h>
 
