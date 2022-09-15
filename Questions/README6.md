@@ -13,7 +13,7 @@
 5. [Tower of Hanoi](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/towerOfHanoi.c)
 6. [Reverse String](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/revString.c)
 7. [Validate Parenthesis](https://github.com/saha-indranil/DSA01/blob/main/Stack/C%20programs/parenthesis.c)
-8. Validate HTML [Uploading Soon...]
+8. Validate HTML [**Skip it**]
 
 ---
 
