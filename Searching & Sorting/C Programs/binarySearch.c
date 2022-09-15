@@ -1,5 +1,9 @@
+// Binary Search in C
+
 #include <stdio.h>
+
 int binarySearch(int arr[], int n, int key);
+
 int main()
 {
     int arr[10], n, key, index;
@@ -16,12 +20,13 @@ int main()
     printf("Key found at Index: %d", index);
     return 0;
 }
+
 int binarySearch(int arr[], int n, int key)
 {
     int low = 0, mid, high = n - 1;
     while (low <= high)
     {
-        mid = (low + high) >> 1;
+        mid = (low + high) / 2;
         if (arr[mid] == key)
         {
             return mid;
