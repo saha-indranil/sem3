@@ -19,7 +19,7 @@ Topic: Application of Stack & Queue
 5. Write a C program to solve the tower of Hanoi using stack.
 6. Write a C program to reverse a string using stack.
 7. Write a C program to validate the parenthesis of an expression.
-8. Write a C program to validate an html file.
+8. Write a C program to validate an html tag.
 
 
 

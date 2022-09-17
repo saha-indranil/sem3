@@ -4,6 +4,19 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
+bool isValid(char *s);
+
+int main()
+{
+    char str[10];
+    printf("Enter a String: ");
+    gets(str);
+    if (isValid(str))
+        printf("Parenthesis is Matching!");
+    else
+        printf("Parenthesis is not Matching");
+    return 0;
+}
 
 bool isValid(char *s)
 {
@@ -39,18 +52,6 @@ bool isValid(char *s)
         s++;
     }
     return (top == -1) ? true : false;
-}
-
-int main()
-{
-    char str[10];
-    printf("Enter a String: ");
-    gets(str);
-    if (isValid(str))
-        printf("Parenthesis is Matching!");
-    else
-        printf("Parenthesis is not Matching");
-    return 0;
 }
 
 // OUTPUT
