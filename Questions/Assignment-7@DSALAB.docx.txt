@@ -1,0 +1,54 @@
+﻿UEM New Logo 
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+Semester: 3rd        
+                Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+Date of Assignment - 17.09.2022
+Date of Submission - 17.09.2022
+Section: CSE A, CSE B
+                                                                
+
+
+Assignment – VII
+(All programs to be implemented in C)
+
+Topic: Searching & Sorting
+1. Write a program to implement Bubble Sort.
+2. Write a program to implement Selection Sort.
+3. Write a program to implement Insertion Sort.
+4. Write a program to implement Merge Sort.
+5. Write a program to implement linear search.
+6. Write a program to implement binary search.        
+7. Write a program to implement the concept of Hashing.
+      
+         
+Assignment – VII
+(All programs to be implemented in Python)
+
+Topic: Searching & Sorting
+1. Write a program to implement Bubble Sort.
+2. Write a program to implement Selection Sort.
+3. Write a program to implement Insertion Sort.
+4. Write a program to implement Merge Sort.
+5. Write a program to implement linear search.
+6. Write a program to implement binary search.        
+
+
+
+
+Instruction:
+1. Mention the following thing using A4 pages:
+   a. Program Objective
+   b. Algorithm (if it is asked)
+   c. Program Code.
+   d. Output
+
+
+
+
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.
