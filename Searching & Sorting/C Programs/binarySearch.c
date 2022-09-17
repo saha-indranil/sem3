@@ -6,16 +6,10 @@ int binarySearch(int arr[], int n, int key);
 
 int main()
 {
-    int arr[10], n, key, index;
-    printf("Enter number of elements: ");
-    scanf("%d", &n);
-    for (int i = 0; i < n; i++)
-    {
-        printf("Enter Array[%d]: ", i);
-        scanf("%d", &arr[i]);
-    }
-    printf("\nEnter Key: ");
-    scanf("%d", &key);
+    int n, key, index;
+    int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    n = 9;
+    key = 6;
     index = binarySearch(arr, n, key);
     printf("Key found at Index: %d", index);
     return 0;
