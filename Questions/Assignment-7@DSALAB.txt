@@ -44,10 +44,6 @@ Instruction:
    b. Algorithm (if it is asked)
    c. Program Code.
    d. Output
-
-
-
-
 2. Handwritten assignment solutions are required. No printout is allowed.
 3. Submit all the assignments using the channel file.
 4. One Index page must be attached there.

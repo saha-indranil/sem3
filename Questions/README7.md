@@ -6,10 +6,10 @@
 
 ## C Programs 👽
 
-1. Bubble Sort
-1. Selection Sort
-1. Insertion Sort
-1. Merge Sort
+1. [Bubble Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/bubbleSort.c)
+1. [Selection Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/selectionSort.c)
+1. [Insertion Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/insertionSort.c)
+1. [Merge Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/mergeSort.c)
 1. Quick Sort (**EXTRA**)
 1. Shell Sort (**EXTRA**)
 1. Radix Sort (**EXTRA**)

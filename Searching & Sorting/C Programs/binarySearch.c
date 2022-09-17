@@ -1,4 +1,4 @@
-// Binary Search in C
+// Write a program to implement binary search.
 
 #include <stdio.h>
 
@@ -8,10 +8,13 @@ int main()
 {
     int n, key, index;
     int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-    n = 9;
+    n = sizeof(arr) / sizeof(arr[0]);
     key = 6;
     index = binarySearch(arr, n, key);
-    printf("Key found at Index: %d", index);
+    if (index == -1)
+        printf("Item not found!");
+    else
+        printf("%d found at Index: %d", key, index);
     return 0;
 }
 
@@ -36,3 +39,13 @@ int binarySearch(int arr[], int n, int key)
     }
     return -1;
 }
+
+// OUTPUT
+// 6 found at Index: 5
+
+// Worst complexity: O(log n)
+// Average complexity: O(log n)
+// Best complexity: O(1)
+// Space complexity: O(1)
+// Data structure: Array
+// Class: Search algorithm
