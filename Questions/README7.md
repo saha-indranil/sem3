@@ -1,6 +1,6 @@
 <h1 align="center"> Assignment 7 </h1>
 
-> 💠 Searching & Sorting<br> 👉🏼 [Question](https://github.com/saha-indranil/DSA01/blob/main/Questions/Assignment-6%40DSALAB.txt)
+> 💠 Searching & Sorting<br> 👉🏼 [Question](https://github.com/saha-indranil/DSA01/blob/main/Questions/Assignment-7%40DSALAB.txt)
 
 ---
 
