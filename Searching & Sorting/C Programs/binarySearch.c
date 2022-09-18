@@ -37,6 +37,7 @@ int binarySearch(int arr[], int n, int key)
 // OUTPUT
 // 6 found at Index: 5
 
+// Works if array is already sorted
 // Worst complexity: O(log n)
 // Average complexity: O(log n)
 // Best complexity: O(1)

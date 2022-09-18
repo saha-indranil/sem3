@@ -1,6 +1,6 @@
 <h1 align="center"> Assignment 7 </h1>
 
-> 💠 Searching & Sorting<br> 👉🏼 [Question](https://github.com/saha-indranil/DSA01/blob/main/Questions/Assignment-7%40DSALAB.txt)
+> 💠 Sorting & Searching<br> 👉🏼 [Question](https://github.com/saha-indranil/DSA01/blob/main/Questions/Assignment-7%40DSALAB.txt)
 
 ---
 
@@ -13,17 +13,18 @@
 1. Quick Sort (**EXTRA**)
 1. Shell Sort (**EXTRA**)
 1. Radix Sort (**EXTRA**)
-1. Linear Search
+1. Heap Sort (**EXTRA**)
+1. [Linear Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/linearSearch.c)
 1. [Binary Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/binarySearch.c)
-1. Interpolation Search (**EXTRA**)
+1. [Interpolation Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/interpolationSearch.c) (**EXTRA**)
 1. Hashing
 
 ---
 
 ## Python Programs 🤖
 
-1. Bubble Sort
-1. Selection Sort
+1. [Bubble Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/bubbleSort.py)
+1. [Selection Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/selectionSort.py)
 1. Insertion Sort
 1. Merge Sort
 1. Linear Search
