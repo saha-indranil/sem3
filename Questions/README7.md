@@ -25,7 +25,7 @@
 
 1. [Bubble Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/bubbleSort.py)
 1. [Selection Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/selectionSort.py)
-1. Insertion Sort
+1. [Insertion Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/insertionSort.py)
 1. Merge Sort
 1. Linear Search
 1. Binary Search

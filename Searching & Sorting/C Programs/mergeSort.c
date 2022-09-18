@@ -1,31 +1,31 @@
 // Write a program to implement Merge Sort.
 
 #include <stdio.h>
-void divide(int arr[], int, int);
-void conquer(int arr[], int, int, int);
+void mergeSort(int arr[], int, int);
+void merge(int arr[], int, int, int);
 
 int main()
 {
     int arr[] = {3, 7, 5, 1, 6, 2, 4};
     int size = sizeof(arr) / sizeof(arr[0]);
-    divide(arr, 0, size - 1);
+    mergeSort(arr, 0, size - 1);
     printf("Sorted Array is\n");
     for (int i = 0; i < size; i++)
         printf("%d ", arr[i]);
     return 0;
 }
 
-void divide(int arr[], int start, int end)
+void mergeSort(int arr[], int start, int end)
 {
     if (start >= end)
         return;
     int mid = start + (end - start) / 2;
-    divide(arr, start, mid);
-    divide(arr, mid + 1, end);
-    conquer(arr, start, mid, end);
+    mergeSort(arr, start, mid);
+    mergeSort(arr, mid + 1, end);
+    merge(arr, start, mid, end);
 }
 
-void conquer(int arr[], int start, int mid, int end)
+void merge(int arr[], int start, int mid, int end)
 {
     int merged[end - start + 1];
     int idx1 = start, idx2 = mid + 1;
