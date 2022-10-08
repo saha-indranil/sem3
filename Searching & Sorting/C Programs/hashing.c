@@ -1,3 +1,5 @@
+// Write a program to implement the concept of Hashing.
+
 #include <stdio.h>
 
 int ht[10], i, found = 0, key;
