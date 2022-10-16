@@ -1,0 +1,68 @@
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSETOT-CYS-BCT)
+Semester: 3rd
+Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+Date of Assignment - 13.10.2022
+Date of Submission - 20.10.2022
+Section: CSE(AIML) A,B
+
+ 
+
+                     Assignment — VIII
+           (All programs to be implemented in C)
+
+                     Topic: Binary Tree
+
+1. Write a program to implement Binary Tree using array along with the following functions:
+a) To create a binary tree.
+b) To display tree using inorder.
+c) To display tree using preorder.
+d) To display tree using postorder.
+e) To count number of node present in the tree.
+f) To find the height of the tree.
+g) To find the number of leaf node.
+h) To find the number of internal node.
+i) To search a data present in the tree.
+
+2. Write a program to implement Binary Tree using linked list along with the following functions:
+a) To create a binary tree.
+b) To display tree using inorder.
+c) To display tree using preorder.
+d) To display tree using postorder.
+e) To count number of node present in the tree.
+f) To find the height of the tree.g) To find the number of leaf node.
+h) To find the number of internal node.
+i) To search a data present in the tree.
+
+
+
+                     Assignment — VIII
+           (All programs to be implemented in Python)
+
+                     Topic: Binary Tree
+
+1. Write a program to implement Binary Tree using linked list along with the following functions:
+a) To create a binary tree.
+b) To display tree using inorder.
+c) To display tree using preorder.
+d) To display tree using postorder.
+e) To count number of node present in the tree.
+f) To find the height of the tree.
+g) To find the number of leaf node.
+h) To find the number of internal node.
+i) To search a data present in the tree.
+
+
+Instruction:
+1. Mention the following thing using A4 pages:
+a. Program Objective
+b. Algorithm (if it is asked)
+c. Program Code.
+d. Output
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.
+
