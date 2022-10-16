@@ -17,7 +17,7 @@
 1. [Linear Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/linearSearch.c)
 1. [Binary Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/binarySearch.c)
 1. [Interpolation Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/interpolationSearch.c) (**EXTRA**)
-1. Hashing
+1. [Hashing](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/C%20Programs/hashing.c)
 
 ---
 
@@ -26,6 +26,6 @@
 1. [Bubble Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/bubbleSort.py)
 1. [Selection Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/selectionSort.py)
 1. [Insertion Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/insertionSort.py)
-1. Merge Sort
-1. Linear Search
-1. Binary Search
+1. [Merge Sort](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/mergeSort.py)
+1. [Linear Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/linearSearch.py)
+1. [Binary Search](https://github.com/saha-indranil/DSA01/blob/main/Searching%20%26%20Sorting/Python%20Programs/binarySearch.py)
