@@ -13,4 +13,18 @@
 
 ---
 
+<h1 align="center"> IT Workshop </h1>
+
+- [Assignment 1](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment1)
+- [Assignment 2](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment2)
+- [Assignment 3](https://github.com/GodPhoenix2003/IT-Workshop-Assignment/tree/main/Assignment%203)
+- [Assignment 4](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment4)
+- [Assignment 5](https://github.com/saha-indranil/DSA01/blob/main/OPPS%20java/Assignment%205.pdf)
+- [Assignment 6](https://github.com/saha-indranil/DSA01/blob/main/OPPS%20java/Assignment%206.pdf)
+- [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
+
+(Download the PDFs if it is not opening)
+
+---
+
 #### All the DSA Lab assignments will be uploaded here in this repo so make sure to star(⭐) this repo
