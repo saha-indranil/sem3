@@ -33,10 +33,9 @@ int flag = 0;
 
 int main()
 {
-    int c, h, l, i, val;
+    int val;
     printf("Enter -1 for NULL\n");
     printf("Enter Root Data: ");
-
     NODE *root = createTree();
 
     printf("\nPrinting Tree Using Inorder\n");
@@ -46,14 +45,10 @@ int main()
     printf("\nPrinting Tree Using Postorder\n");
     postorder(root);
 
-    c = countNodes(root);
-    printf("\nNumber of Nodes: %d", c);
-    h = height(root);
-    printf("\nHeight of the Binary Tree: %d", h);
-    l = countLeaf(root);
-    printf("\nNumber of Leaf Nodes: %d", l);
-    i = countInternal(root);
-    printf("\nNumber of Internal Nodes: %d", i);
+    printf("\nNumber of Nodes: %d", countNodes(root));
+    printf("\nHeight of the Binary Tree: %d", height(root));
+    printf("\nNumber of Leaf Nodes: %d", countLeaf(root));
+    printf("\nNumber of Internal Nodes: %d", countInternal(root));
 
     printf("\nEnter item to search: ");
     scanf("%d", &val);
