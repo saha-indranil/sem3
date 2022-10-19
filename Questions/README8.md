@@ -7,10 +7,10 @@
 ## C Programs 👽
 
 1. [Binary Tree using Array](https://github.com/saha-indranil/DSA01/blob/main/Binary%20Tree/C%20Programs/binaryTreeArr.c)
-1. [Binary Tree using LL](https://github.com/saha-indranil/DSA01/blob/main/Binary%20Tree/C%20programs/binaryTreeLL.c)
+1. [Binary Tree using LL](https://github.com/saha-indranil/DSA01/blob/main/Binary%20Tree/C%20Programs/binaryTreeLL.c)
 
 ---
 
 ## Python Programs 🤖
 
-1. Binary Tree using LL
+1. [Binary Tree using LL](https://github.com/saha-indranil/DSA01/blob/main/Binary%20Tree/Python%20Programs/binaryTree.py)
