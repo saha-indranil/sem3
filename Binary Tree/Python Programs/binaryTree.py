@@ -20,15 +20,15 @@ class BinaryTree:
     def __init__(self):
         self.root = None
 
-    def createTree(self, root):
+    def createTree(self):
         val = int(input())
         if val == -1:
             return None
         root = Node(val)
         print("Enter left child of", root.data, end=": ")
-        root.left = self.createTree(root.left)
+        root.left = self.createTree()
         print("Enter right child of", root.data, end=": ")
-        root.right = self.createTree(root.right)
+        root.right = self.createTree()
         return root
 
     def inorder(self, root):
@@ -85,7 +85,7 @@ class BinaryTree:
 print("Enter -1 for None")
 print("Enter Root Data: ", end='')
 tree = BinaryTree()
-tree.root = tree.createTree(tree.root)
+tree.root = tree.createTree()
 
 print("Displaying Tree Using Inorder")
 tree.inorder(tree.root)

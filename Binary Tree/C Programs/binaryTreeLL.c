@@ -92,9 +92,7 @@ NODE *createTree(void)
 void inorder(NODE *root)
 {
     if (root == NULL)
-    {
         return;
-    }
     inorder(root->left);
     printf("%d ", root->data);
     inorder(root->right);
@@ -103,9 +101,7 @@ void inorder(NODE *root)
 void preorder(NODE *root)
 {
     if (root == NULL)
-    {
         return;
-    }
     printf("%d ", root->data);
     preorder(root->left);
     preorder(root->right);
@@ -114,9 +110,7 @@ void preorder(NODE *root)
 void postorder(NODE *root)
 {
     if (root == NULL)
-    {
         return;
-    }
     postorder(root->left);
     postorder(root->right);
     printf("%d ", root->data);
