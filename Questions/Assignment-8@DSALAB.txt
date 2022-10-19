@@ -1,4 +1,3 @@
-
 University of Engineering & Management, Kolkata
 Course: B.Tech (CSE / CSE(AIML) / CSETOT-CYS-BCT)
 Semester: 3rd
@@ -32,7 +31,8 @@ b) To display tree using inorder.
 c) To display tree using preorder.
 d) To display tree using postorder.
 e) To count number of node present in the tree.
-f) To find the height of the tree.g) To find the number of leaf node.
+f) To find the height of the tree.
+g) To find the number of leaf node.
 h) To find the number of internal node.
 i) To search a data present in the tree.
 
@@ -65,4 +65,3 @@ d. Output
 3. Submit all the assignments using the channel file.
 4. One Index page must be attached there.
 5. Late submission will not be entertained. Maintain the deadline.
-
