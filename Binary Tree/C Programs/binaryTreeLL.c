@@ -126,7 +126,7 @@ int countNodes(NODE *root)
 int height(NODE *root)
 {
     if (root == NULL)
-        return 0;
+        return -1;
     int lHeight = height(root->left);
     int rHeight = height(root->right);
 
@@ -202,7 +202,7 @@ void search(NODE *root, int val)
 // Printing Tree Using Postorder
 // 48 93 17 51 32 14
 // Number of Nodes: 6
-// Height of the Binary Tree: 4
+// Height of the Binary Tree: 3
 // Number of Leaf Nodes: 3
 // Number of Internal Nodes: 3
 // Enter item to search: 17

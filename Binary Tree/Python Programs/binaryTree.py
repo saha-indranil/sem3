@@ -59,7 +59,7 @@ class BinaryTree:
 
     def height(self, root):
         if root is None:
-            return 0
+            return -1
         return max(self.height(root.left), self.height(root.right)) + 1
 
     def countLeaf(self, root):
@@ -139,7 +139,7 @@ else:
 # Displaying Tree Using Postorder
 # 48 93 17 51 32 14
 # Number of Nodes: 6
-# Height of Binary Tree: 4
+# Height of Binary Tree: 3
 # Number of Leaf Nodes: 3
 # Number of Internal Nodes: 3
 # Enter a Data to Search: 93

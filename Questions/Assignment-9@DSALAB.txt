@@ -1,0 +1,52 @@
+﻿UEM New Logo 
+
+University of Engineering & Management, Kolkata
+Course: B.Tech (CSE / CSE(AIML) / CSE(IOT-CYS-BCT)
+Semester: 3rd        
+Paper Name: Data Structure & Algorithm Laboratory
+Paper Code: PCC - CS391
+Date of Assignment - 11.10.2022
+Date of Submission - 11.10.2022
+Section: CSE A, CSE B
+                                                                
+
+
+Assignment – IX
+(All programs to be implemented in C & Python)
+
+Topic: Binary Search Tree
+1. Write a program to implement Binary Search Tree using linked list along with the following functions: 
+   a. To create a binary search tree.
+   b. To display tree using inorder.
+   c. To display tree using preorder.
+   d. To display tree using postorder.
+   e. To count number of node present in the tree.
+   f. To find the height of the tree. 
+   g. To find the number of leaf node.
+   h. To find the number of internal node.
+   i. To search a data present in the tree.
+   j. To check complete binary tree.
+   k. To insert a node.
+   l. To delete a node.
+   m. To check the balance factor of a node.
+   n. To find the minimum value present in the tree.
+   o. To find the maximum value present in the tree.
+   p. To count number of NULL pointer present in the tree.
+
+
+
+
+
+
+
+
+Instruction:
+1. Mention the following thing using A4 pages:
+   a. Program Objective
+   b. Algorithm (if it is asked)
+   c. Program Code.
+   d. Output
+2. Handwritten assignment solutions are required. No printout is allowed.
+3. Submit all the assignments using the channel file.
+4. One Index page must be attached there.
+5. Late submission will not be entertained. Maintain the deadline.
