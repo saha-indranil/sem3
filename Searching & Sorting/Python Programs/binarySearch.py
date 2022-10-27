@@ -15,8 +15,8 @@ def binarySearch(arr, key):
     return -1
 
 
-arr = [3, 9, 2, 5, 4]
-key = 5
+arr = [1, 2, 3, 4, 5]
+key = 4
 idx = binarySearch(arr, key)
 if idx == -1:
     print("Item Not Found")
@@ -24,4 +24,4 @@ else:
     print(str(key), "found at index:", str(idx))
 
 # OUTPUT
-# 5 found at index: 3
+# 4 found at index: 3
