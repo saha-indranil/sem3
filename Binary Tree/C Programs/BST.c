@@ -324,7 +324,7 @@ int countNULL(NODE *root)
 
         15                      15                   15             Height 0
       /    \                  /    \               /    \
-    10      20      -→      10      20    -→     10      25         Height 1
+    10      20      →      10      20     →    10      25          Height 1
    /  \    /  \            /  \    /  \         /  \    /
   8   12  18  25          8   12  18  25       8   12  18           Height 2
                                     \                    \

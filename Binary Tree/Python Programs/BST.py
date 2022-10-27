@@ -17,9 +17,6 @@
 # p. To count number of NULL pointer present in the tree.
 
 
-from logging import root
-
-
 class Node:
     def __init__(self, data):
         self.data = data
@@ -189,8 +186,7 @@ if __name__ == "__main__":
     # Balance Factor of a Node
     val = int(input("Enter a Value to get Balance Factor: "))
     if tree.search(tree.root, val):
-        print("Balance Factor of", val, "is",
-              tree.balanceFactor(tree.root, val))
+        print("Balance Factor of", val, "is",tree.balanceFactor(tree.root, val))
     else:
         print(val, "is not present in the tree")
 
@@ -205,7 +201,7 @@ if __name__ == "__main__":
 
         15                      15                   15             Height 0
       /    \                  /    \               /    \
-    10      20      -→      10      20    -→     10      25         Height 1
+    10      20      →      10      20     →     10      25         Height 1
    /  \    /  \            /  \    /  \         /  \    /
   8   12  18  25          8   12  18  25       8   12  18           Height 2
                                     \                    \
