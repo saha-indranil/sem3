@@ -26,8 +26,6 @@
 - [Assignment 7](https://github.com/RiddhiRaj/IT-Workshop-Assignments/blob/master/Assignment7/)
 - [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
 
-(Download the PDFs if it is not opening)
-
 ---
 
 <h1 align="center"> Digital Electronics </h1>
