@@ -180,8 +180,11 @@ if __name__ == "__main__":
 
     # Deletation from BST
     val = int(input("Enter a Data to Delete from BST: "))
-    tree.root = tree.deleteNode(tree.root, val)
-    print(val, "is Deleted from BST")
+    if tree.search(tree.root, val):
+        tree.root = tree.deleteNode(tree.root, val)
+        print(val, "is Deleted from BST")
+    else:
+        print(val, "is not present in the tree")
 
     # Balance Factor of a Node
     val = int(input("Enter a Value to get Balance Factor: "))
