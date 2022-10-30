@@ -180,8 +180,11 @@ if __name__ == "__main__":
 
     # Deletation from BST
     val = int(input("Enter a Data to Delete from BST: "))
-    tree.root = tree.deleteNode(tree.root, val)
-    print(val, "is Deleted from BST")
+    if tree.search(tree.root, val):
+        tree.root = tree.deleteNode(tree.root, val)
+        print(val, "is Deleted from BST")
+    else:
+        print(val, "is not present in the tree")
 
     # Balance Factor of a Node
     val = int(input("Enter a Value to get Balance Factor: "))
@@ -190,8 +193,8 @@ if __name__ == "__main__":
     else:
         print(val, "is not present in the tree")
 
-    print("Minimum Value is BST: ", tree.minValue(tree.root))
-    print("Maximum Value is BST: ", tree.maxValue(tree.root))
+    print("Minimum Value in BST: ", tree.minValue(tree.root))
+    print("Maximum Value in BST: ", tree.maxValue(tree.root))
     print("Number of None Pointers: ", tree.countNone(tree.root))
 
 
@@ -241,6 +244,6 @@ if __name__ == "__main__":
 # 20 is Deleted from BST
 # Enter a Value to get Balance Factor: 25
 # Balance Factor of 25 is 2
-# Minimum Value is BST:  8
-# Maximum Value is BST:  25
+# Minimum Value in BST:  8
+# Maximum Value in BST:  25
 # Number of None Pointers:  8

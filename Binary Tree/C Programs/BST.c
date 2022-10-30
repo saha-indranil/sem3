@@ -86,8 +86,14 @@ int main()
     // Deletation from BST
     printf("\nEnter a Value to Delete from BST: ");
     scanf("%d", &val);
-    root = deleteNode(root, val);
-    printf("%d is Deleted from BST", val);
+    if (search(root, val))
+    {
+        root = deleteNode(root, val);
+        printf("%d is Deleted from BST", val);
+    }
+    else
+        printf("%d is not present in the Tree.", val);
+
 
     // Balance Factor of a Node
     printf("\nEnter a Value to get Balance Factor: ");
