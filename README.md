@@ -54,4 +54,4 @@
 ---
 
 Download the PDF, if its not opening <br>
-<img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpeg" alt="img" height="200"/>
+<img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpg" alt="img" height="200"/>
