@@ -4,7 +4,7 @@
 [Go To IT](#it-workshop) <br>
 [Go to DE](#digital-electronics) <br>
 
-**_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 🙂_**
+**_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
 ## DSA Lab
 
