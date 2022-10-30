@@ -1,8 +1,8 @@
 # 3rd Sem Assignments
 
-[DSA](#dsa-lab) <br>
-[IT Workshop](#it-workshop) <br>
-[Digital Electronics](#digital-electronics) <br>
+[Go To DSA](#dsa-lab) <br>
+[Go To IT](#it-workshop) <br>
+[Go to DE](#digital-electronics) <br>
 
 **_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 🙂_**
 
