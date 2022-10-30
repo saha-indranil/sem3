@@ -1,4 +1,12 @@
-<h1 align="center"> DSA01 </h1>
+# 3rd Sem Assignments
+
+[DSA](#dsa-lab) <br>
+[IT Workshop](#it-workshop) <br>
+[Digital Electronics](#digital-electronics) <br>
+
+**_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 🙂_**
+
+## DSA Lab
 
 |                      |                                                                                         |
 | -------------------- | --------------------------------------------------------------------------------------- |
@@ -15,34 +23,35 @@
 
 ---
 
-<h1 align="center"> IT Workshop </h1>
+## IT Workshop
 
 - [Assignment 1](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment1)
 - [Assignment 2](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment2)
 - [Assignment 3](https://github.com/GodPhoenix2003/IT-Workshop-Assignment/tree/main/Assignment%203)
 - [Assignment 4](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment4)
-- [Assignment 5](https://github.com/saha-indranil/DSA01/blob/main/OPPS%20java/Assignment%205.pdf)
-- [Assignment 6](https://github.com/saha-indranil/DSA01/blob/main/OPPS%20java/Assignment%206.pdf)
+- [Assignment 5](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%205.pdf)
+- [Assignment 6](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%206.pdf)
 - [Assignment 7](https://github.com/RiddhiRaj/IT-Workshop-Assignments/blob/master/Assignment7/)
 - [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
+- [Assignment 10](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%2010.pdf)
+- [Assignment 11](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%2011.pdf)
 
 ---
 
-<h1 align="center"> Digital Electronics </h1>
+## Digital Electronics
 
-| 🙃                                                                                       | Experiment                                                         |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Day 1](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY1.pdf) | 1. Basic Logic Gate                                                |
-| [Day 2](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY2.pdf) | 3. Binary to Gray <br> 4. Gray to Binary <br> 5. Prime & Non-Prime |
-| [Day 3](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY3.pdf) | 2. Adder & Substractor                                             |
-| [Day 4](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY4.pdf) | 6. Parity Checker & Generator                                      |
-| [Day 7](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY5.pdf) | 7. 2-bit Comparator                                                |
-| [Day 5](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY6.pdf) | 9. MUX & DEMUX                                                     |
-| [Day 6](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY7.pdf) | 10. FlipFlop                                                       |
-| [Day 8](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY8.pdf) | 11. Mod-8 up counter                                               |
+| Experiment                                                         | 🙃                                                                                       |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| 1. Basic Logic Gate                                                | [Day 1](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY1.pdf) |
+| 3. Binary to Gray <br> 4. Gray to Binary <br> 5. Prime & Non-Prime | [Day 2](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY2.pdf) |
+| 2. Adder & Substractor                                             | [Day 3](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY3.pdf) |
+| 6. Parity Checker & Generator                                      | [Day 4](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY4.pdf) |
+| 7. 2-bit Comparator                                                | [Day 5](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY5.pdf) |
+| 9. MUX & DEMUX                                                     | [Day 6](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY6.pdf) |
+| 10. FlipFlop                                                       | [Day 7](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY7.pdf) |
+| 11. Mod-8 up counter                                               | [Day 8](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY8.pdf) |
 
 ---
 
-![Download the PDF, if its not opening](https://github.com/saha-indranil/DSA01/blob/main/gg.jpeg)
-
-#### All the 3rd Sem Lab assignments will be uploaded here in this repo so make sure to star(⭐) this repo
+Download the PDF, if its not opening <br>
+<img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpeg" alt="img" height="200"/>
