@@ -32,6 +32,7 @@
 - [Assignment 5](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%205.pdf)
 - [Assignment 6](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%206.pdf)
 - [Assignment 7](https://github.com/RiddhiRaj/IT-Workshop-Assignments/blob/master/Assignment7/)
+- [Assignment 8](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%208.pdf)
 - [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
 - [Assignment 10](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%2010.pdf)
 - [Assignment 11](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%2011.pdf)
