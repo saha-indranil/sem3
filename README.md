@@ -1,13 +1,13 @@
 # 3rd Sem Assignments
 
-[Visit Previous Year Questions 📑](#question-papers-📑) <br>
-[Go To DSA 👩🏻‍💻](#dsa-lab-👩🏻‍💻) <br>
-[Go To IT ☕](#it-workshop-☕) <br>
-[Go to DE ⚡](#digital-electronics-⚡) <br>
+[Visit Previous Year Questions 📑](#question-papers) <br>
+[Go To DSA 👩🏻‍💻](#dsa-lab) <br>
+[Go To IT ☕](#it-workshop) <br>
+[Go to DE ⚡](#digital-electronics) <br>
 
 **_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
-## DSA Lab 👩🏻‍💻
+## DSA Lab
 
 |                      |                                                                                         |
 | -------------------- | --------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 
 ---
 
-## IT Workshop ☕
+## IT Workshop
 
 - [Assignment 1](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment1)
 - [Assignment 2](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment2)
@@ -40,7 +40,7 @@
 
 ---
 
-## Digital Electronics ⚡
+## Digital Electronics
 
 | Experiment                                                         | 🙃                                                                                       |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@
 
 ---
 
-## Question Papers 📑
+## Question Papers
 
 [**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
 
