@@ -1,12 +1,13 @@
 # 3rd Sem Assignments
 
-[Go To DSA](#dsa-lab) <br>
-[Go To IT](#it-workshop) <br>
-[Go to DE](#digital-electronics) <br>
+[Go To DSA](#dsa-lab-👩🏻‍💻) <br>
+[Go To IT](#it-workshop-☕) <br>
+[Go to DE](#digital-electronics-⚡) <br>
+[Visit Previous Year Questions](#question-papers-📑) <br>
 
 **_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 🙂_**
 
-## DSA Lab
+## DSA Lab 👩🏻‍💻
 
 |                      |                                                                                         |
 | -------------------- | --------------------------------------------------------------------------------------- |
@@ -23,7 +24,7 @@
 
 ---
 
-## IT Workshop
+## IT Workshop ☕
 
 - [Assignment 1](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment1)
 - [Assignment 2](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment2)
@@ -38,7 +39,7 @@
 
 ---
 
-## Digital Electronics
+## Digital Electronics ⚡
 
 | Experiment                                                         | 🙃                                                                                       |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -52,6 +53,10 @@
 | 11. Mod-8 up counter                                               | [Day 8](https://github.com/saha-indranil/DSA01/blob/main/Digital%20Electronics/DAY8.pdf) |
 
 ---
+
+## Question Papers 📑
+
+[**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
 
 Download the PDF, if its not opening <br>
 <img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpg" alt="img" height="200"/>
