@@ -1,9 +1,16 @@
 # 3rd Sem Assignments
 
+<<<<<<< HEAD
 [Visit Previous Year Questions 📑](#question-papers-📑) <br>
 [Go To DSA 👩🏻‍💻](#dsa-lab-👩🏻‍💻) <br>
 [Go To IT ☕](#it-workshop-☕) <br>
 [Go to DE ⚡](#digital-electronics-⚡) <br>
+=======
+[Visit Previous Year Questions](#question-papers-📑) <br>
+[Go To DSA](#dsa-lab-👩🏻‍💻) <br>
+[Go To IT](#it-workshop-☕) <br>
+[Go to DE](#digital-electronics-⚡) <br>
+>>>>>>> ee894df13127ca070c4f103982389d8ece7bfe00
 
 **_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
