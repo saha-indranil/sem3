@@ -57,7 +57,7 @@
 
 ## Question Papers
 
-[**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
+💠 [**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
 
 Download the PDF, if its not opening <br>
 <img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpg" alt="img" height="420"/>
