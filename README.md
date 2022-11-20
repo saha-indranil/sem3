@@ -5,7 +5,7 @@
 [Go to DE](#digital-electronics-⚡) <br>
 [Visit Previous Year Questions](#question-papers-📑) <br>
 
-**_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 🙂_**
+**_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
 ## DSA Lab 👩🏻‍💻
 
@@ -33,6 +33,7 @@
 - [Assignment 5](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%205.pdf)
 - [Assignment 6](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%206.pdf)
 - [Assignment 7](https://github.com/RiddhiRaj/IT-Workshop-Assignments/blob/master/Assignment7/)
+- [Assignment 8](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%208.pdf)
 - [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
 - [Assignment 10](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%2010.pdf)
 - [Assignment 11](https://github.com/saha-indranil/DSA01/blob/main/IT%20Workshop/Assignment%2011.pdf)
@@ -54,9 +55,5 @@
 
 ---
 
-## Question Papers 📑
-
-[**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
-
 Download the PDF, if its not opening <br>
-<img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpg" alt="img" height="200"/>
+<img src="https://github.com/saha-indranil/DSA01/blob/main/gg.jpg" alt="img" height="420"/>
