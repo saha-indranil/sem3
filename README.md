@@ -55,7 +55,7 @@
 
 ---
 
-# Question Papers 📑
+## Question Papers 📑
 
 [**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
 
