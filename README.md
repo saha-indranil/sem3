@@ -1,17 +1,17 @@
 # 3rd Sem Assignments
 
-[Visit Previous Year Questions 📑](#question-papers) <br>
 [Go To DSA 👩🏻‍💻](#dsa-lab) <br>
 [Go To IT ☕](#it-workshop) <br>
 [Go to DE ⚡](#digital-electronics) <br>
+[Previous Sem Questions 📑](#question-papers) <br>
 
-**_All the 3rd Sem Lab assignments is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
+**_All the 3rd Sem Lab assignments, Questions, Notes is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
 ---
 
 ## DSA Lab
 
-|                      |                                                                                         |
+| Topics               | Assignments                                                                             |
 | -------------------- | --------------------------------------------------------------------------------------- |
 | Dynamic Array        | [Assignment 1](https://github.com/saha-indranil/DSA01/blob/main/Questions/README1.md)   |
 | Stack & Queue 1      | [Assignment 2](https://github.com/saha-indranil/DSA01/blob/main/Questions/README2.md)   |
@@ -28,23 +28,25 @@
 
 ## IT Workshop
 
-- [Assignment 1](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment1)
-- [Assignment 2](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment2)
-- [Assignment 3](https://github.com/GodPhoenix2003/IT-Workshop-Assignment/tree/main/Assignment%203)
-- [Assignment 4](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment4)
-- [Assignment 5](https://drive.google.com/file/d/1CfrdkHC715uzz6F4hfXjKgpgoT4DDXnx/view?usp=share_link)
-- [Assignment 6](https://drive.google.com/file/d/1qeid0NCmYqXacDxhIKelD4MlU74-9-5-/view?usp=share_link)
-- [Assignment 7](https://github.com/RiddhiRaj/IT-Workshop-Assignments/blob/master/Assignment7/)
-- [Assignment 8](https://drive.google.com/file/d/1fNzwAWv94myhVglGMfaqrmLL9H1JR2fU/view?usp=share_link)
-- [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
-- [Assignment 10](https://drive.google.com/file/d/1zBSOgS-i24kSUAtkQfCrCAiw9PEg53Zn/view?usp=share_link)
-- [Assignment 11](https://drive.google.com/file/d/1BaKK8oz0vq11HyhkxooyIY-hWL18PWh4/view?usp=share_link)
+💠[Question](https://drive.google.com/file/d/1ZjDGDwiDeSj4t-XkfCieJIc38ZIjBKDH/view?usp=share_link)
+
+1. [Assignment 1](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment1)
+1. [Assignment 2](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment2)
+1. [Assignment 3](https://github.com/GodPhoenix2003/IT-Workshop-Assignment/tree/main/Assignment%203)
+1. [Assignment 4](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment4)
+1. [Assignment 5](https://drive.google.com/file/d/1CfrdkHC715uzz6F4hfXjKgpgoT4DDXnx/view?usp=share_link)
+1. [Assignment 6](https://drive.google.com/file/d/1qeid0NCmYqXacDxhIKelD4MlU74-9-5-/view?usp=share_link)
+1. [Assignment 7](https://github.com/RiddhiRaj/IT-Workshop-Assignments/blob/master/Assignment7/)
+1. [Assignment 8](https://drive.google.com/file/d/1fNzwAWv94myhVglGMfaqrmLL9H1JR2fU/view?usp=share_link)
+1. [Assignment 9](https://github.com/RiddhiRaj/IT-Workshop-Assignments/tree/master/Assignment9)
+1. [Assignment 10](https://drive.google.com/file/d/1zBSOgS-i24kSUAtkQfCrCAiw9PEg53Zn/view?usp=share_link)
+1. [Assignment 11](https://drive.google.com/file/d/1BaKK8oz0vq11HyhkxooyIY-hWL18PWh4/view?usp=share_link)
 
 ---
 
 ## Digital Electronics
 
-| Experiment                                                         | 🙃                                                                                             |
+| Experiments                                                        | Assignments                                                                                    |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | 1. Basic Logic Gate                                                | [Day 1](https://drive.google.com/file/d/1Vk7uYH1hescYQ81IgQwVsbRgxm7zKmpj/view?usp=share_link) |
 | 3. Binary to Gray <br> 4. Gray to Binary <br> 5. Prime & Non-Prime | [Day 2](https://drive.google.com/file/d/1lRsye5Jdefg_7iRR8ssBxLLnILUeH5oN/view?usp=share_link) |
@@ -59,4 +61,6 @@
 
 ## Question Papers
 
-💠 [**3rd Semester**](https://github.com/AzimWarsii/QuestionPapers/tree/main/3rd%20Sem)
+💠 [Syllabus](https://drive.google.com/file/d/1ZjV3HsiDDPe5FXP1-iuigmSw7qBDvATS/view?usp=share_link)
+<br>
+💠 [Question Papers](https://github.com/saha-indranil/DSA01/blob/main/QuestionPaper.md)
