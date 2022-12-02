@@ -4,9 +4,9 @@
 [Go To IT ☕](#it-workshop-coffee) <br>
 [Go to DE ⚡](#digital-electronics-zap) <br>
 [Previous Sem Questions 📑](#question-papers-spiral_notepad) <br>
-[Notes 📚](#notes-moyai)
+[Go to Notes 📚](#notes-moyai)
 
-**_All the 3rd Sem Lab assignments, Questions, Notes is uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
+**_All the 3rd Sem Lab assignments, Questions, Notes are uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
 ---
 
