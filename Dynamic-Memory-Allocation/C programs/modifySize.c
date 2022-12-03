@@ -1,5 +1,4 @@
-// 10. Write a C program to modify the size of an
-//     array and utilize that during run time.
+// 10. Write a C program to modify the size of an array and utilize that during run time.
 
 #include <stdio.h>
 #include <stdlib.h>

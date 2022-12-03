@@ -95,7 +95,7 @@
 - [Analog Electronic Circuits](https://drive.google.com/file/d/1ZXxb7Y7GvnvbfawVzYRTUFpkXQUvX12_/view?usp=share_link) <br>
 - [Digital Electronics](https://drive.google.com/file/d/1ZMrj2UzAGbXcUa-XEd-6g0hRJ1eYht0t/view?usp=share_link) <br>
 - [Data Structure & Algorithms](https://drive.google.com/file/d/1ZMxtBuEkSi9FU3_Qbw5Of1hOzK5sxe3h/view?usp=share_link) <br>
-- [OOP using JAVA](#) <br>
+- [OOP using JAVA](https://drive.google.com/file/d/1kMZbu6yUgU7qTphI3XYoeVgdtenb-3Bj/view?usp=share_link) <br>
 - [Mathematics III](https://drive.google.com/file/d/1ZNHiDspoB-giMbH08vWMtAqFZDQNnx_C/view?usp=share_link) <br>
 - [TRW using LaTex](https://drive.google.com/file/d/1ZMefyB7farAvZoFf36CTA6dsL44aonvi/view?usp=share_link) <br>
 
@@ -112,7 +112,7 @@
 - [Data Structure & Algorithms](https://drive.google.com/file/d/1_ALg5Wnbge9YHLsSWcWYuXgykoIges2z/view?usp=share_link) <br>
 - [IT WorkShop](https://drive.google.com/file/d/1_HNhU93LmI9e2l5aLtTqSY7ipIOhJxoy/view?usp=share_link) <br>
 - [Mathematics III](https://drive.google.com/file/d/1Zl80dnFv0ztAFlGy3qcrAM9XIMONMYLt/view?usp=share_link) <br>
-- [LaTex](https://drive.google.com/file/d/1_A5KWM34IvlK1hvWwaqLZVqiQ2Ig31ub/view?usp=share_link)<br>
+- [TRW using LaTex](https://drive.google.com/file/d/1_A5KWM34IvlK1hvWwaqLZVqiQ2Ig31ub/view?usp=share_link)<br>
 
 </blockquote></details>
 
@@ -148,3 +148,10 @@
 
 - [JAVA](https://drive.google.com/drive/folders/1S2PXl8vWiOQwIsTZIQ0rssCLlvt80Kbu?usp=share_link)
 - [Mathematics III](https://drive.google.com/drive/folders/1RtFWf93xY1D2xLQpgQ4pJlDoWpJLm2-z?usp=share_link)
+- [Analog Electronics](https://drive.google.com/drive/folders/1RuKz6OaW3wpnUw202qY-qx6iCbBIDKHl?usp=share_link)
+- [Digital Electronics](https://drive.google.com/drive/folders/1S2_2dEEVTo0VichGKeSbPtDe3G_30zCL?usp=share_link)
+- [ESP III](https://drive.google.com/drive/folders/1RvXgLaavmy2d4iH9XYcc4vdrBt-DJNqo?usp=share_link)
+
+---
+
+<img src="https://humornama.com/wp-content/uploads/2020/10/Padhai-Likhai-Karo-meme-template-of-Mirzapur-series-1024x576.jpg" alt="Padhai Likhai Karo" width="100%">
