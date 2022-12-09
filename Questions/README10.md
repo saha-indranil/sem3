@@ -8,6 +8,10 @@
 
 1. [Graph using Adjacency Matrix](/Graph/C%20Programs/adjacencyMatrix.c)
 1. [Graph using Adjacency List](/Graph/C%20Programs/adjacencyList.c)
+1. [DFS](/Graph/C%20Programs/DFS.c) (**EXTRA**)
+1. [BFS](/Graph/C%20Programs/BFS.c) (**EXTRA**)
+1. [Kruskal's Algo](/Graph/C%20Programs/kruskal.c) (**EXTRA**)
+1. [Prim's Algo](/Graph/C%20Programs/prim.c) (**EXTRA**)
 
 ---
 
