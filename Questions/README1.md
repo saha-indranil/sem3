@@ -1,13 +1,13 @@
 <h1 align="center"> Assignment 1 </h1>
 
-> 💠 Dynamic Memory Allocation<br> 👉🏼 [Question](https://github.com/saha-indranil/DSA01/blob/main/Questions/Assignment-1%40DSALAB.txt)
+> 💠 Dynamic Memory Allocation<br> 👉🏼 [Question](/Questions/Assignment-1%40DSALAB.txt)
 
 | No. | C Programs                                                               | Python                                                                         |
 | --- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | 1.  | [searchEle](/Dynamic-Memory-Allocation/C%20programs/searchEle.c)         | [searchEle](/Dynamic-Memory-Allocation/Python%20programs/searchEle.py)         |
 | 2.  | [findPos](/Dynamic-Memory-Allocation/C%20programs/findPos.c)             | [findPos](/Dynamic-Memory-Allocation/Python%20programs/findPos.py)             |
 | 3.  | [findMin](/Dynamic-Memory-Allocation/C%20programs/findMin.c)             | [findMin](/Dynamic-Memory-Allocation/Python%20programs/findMin.py)             |
-| 4.  | [search2DArr](/Dynamic-Memory-Allocation/C%20programs/search2DArr.c)     | [search2DArr](/Dynamic-Memory-Allocation/Python%20programs/max2DArr.py)        |
+| 4.  | [search2DArr](/Dynamic-Memory-Allocation/C%20programs/search2DArr.c)     | [search2DArr](/Dynamic-Memory-Allocation/Python%20programs/search2DArr.py)     |
 | 5.  | [max2DArr](/Dynamic-Memory-Allocation/C%20programs/max2DArr.c)           | [max2DArr](/Dynamic-Memory-Allocation/Python%20programs/max2DArr.py)           |
 | 6.  | [min2DArr](/Dynamic-Memory-Allocation/C%20programs/min2DArr.c)           | [min2DArr](/Dynamic-Memory-Allocation/Python%20programs/min2DArr.py)           |
 | 7.  | [sortedMerge](/Dynamic-Memory-Allocation/C%20programs/sortedMerge.c)     | [sortedMerge](/Dynamic-Memory-Allocation/Python%20programs/sortedMerge.py)     |

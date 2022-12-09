@@ -147,10 +147,12 @@
 ## Notes :moyai:
 
 - [JAVA](https://drive.google.com/drive/folders/1S2PXl8vWiOQwIsTZIQ0rssCLlvt80Kbu?usp=share_link)
+- [DSA](https://drive.google.com/drive/folders/1S4n4FHhMbeWzRc-i4KWodloGl_iwh0UK?usp=share_link)
 - [Mathematics III](https://drive.google.com/drive/folders/1RtFWf93xY1D2xLQpgQ4pJlDoWpJLm2-z?usp=share_link)
 - [Analog Electronics](https://drive.google.com/drive/folders/1RuKz6OaW3wpnUw202qY-qx6iCbBIDKHl?usp=share_link)
 - [Digital Electronics](https://drive.google.com/drive/folders/1S2_2dEEVTo0VichGKeSbPtDe3G_30zCL?usp=share_link)
 - [ESP III](https://drive.google.com/drive/folders/1RvXgLaavmy2d4iH9XYcc4vdrBt-DJNqo?usp=share_link)
+- [LaTex](https://drive.google.com/drive/folders/11Ba0JoXr1ZiadL_QAQ8rnPuiSH1qbjHI?usp=share_link)
 
 ---
 

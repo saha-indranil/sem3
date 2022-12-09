@@ -1,4 +1,5 @@
-# Write a python program to search an element in an Array using dynamic memory allocation.
+# 1. Write a python program to search an element
+# in an Array using dynamic memory allocation.
 
 list1 = [1, 2, 3, 4, 5]
 key = int(input("Enter the key: "))
