@@ -12,18 +12,18 @@
 
 ## DSA Lab :technologist:
 
-| Topics               | Assignments                                                                             |
-| -------------------- | --------------------------------------------------------------------------------------- |
-| Dynamic Array        | [Assignment 1](https://github.com/saha-indranil/DSA01/blob/main/Questions/README1.md)   |
-| Stack & Queue 1      | [Assignment 2](https://github.com/saha-indranil/DSA01/blob/main/Questions/README2.md)   |
-| Singly Linked List 1 | [Assignment 3](https://github.com/saha-indranil/DSA01/blob/main/Questions/README3.md)   |
-| Singly Linked List 2 | [Assignment 4](https://github.com/saha-indranil/DSA01/blob/main/Questions/README4.md)   |
-| Doubly Linked List   | [Assignment 5](https://github.com/saha-indranil/DSA01/blob/main/Questions/README5.md)   |
-| Stack & Queue 2      | [Assignment 6](https://github.com/saha-indranil/DSA01/blob/main/Questions/README6.md)   |
-| Searching & Sorting  | [Assignment 7](https://github.com/saha-indranil/DSA01/blob/main/Questions/README7.md)   |
-| Binary Tree          | [Assignment 8](https://github.com/saha-indranil/DSA01/blob/main/Questions/README8.md)   |
-| Binary Search Tree   | [Assignment 9](https://github.com/saha-indranil/DSA01/blob/main/Questions/README9.md)   |
-| Graph                | [Assignment 10](https://github.com/saha-indranil/DSA01/blob/main/Questions/README10.md) |
+| Topics               | Assignments                              |
+| -------------------- | ---------------------------------------- |
+| Dynamic Array        | [Assignment 1](./Questions/README1.md)   |
+| Stack & Queue 1      | [Assignment 2](./Questions/README2.md)   |
+| Singly Linked List 1 | [Assignment 3](./Questions/README3.md)   |
+| Singly Linked List 2 | [Assignment 4](./Questions/README4.md)   |
+| Doubly Linked List   | [Assignment 5](./Questions/README5.md)   |
+| Stack & Queue 2      | [Assignment 6](./Questions/README6.md)   |
+| Searching & Sorting  | [Assignment 7](./Questions/README7.md)   |
+| Binary Tree          | [Assignment 8](./Questions/README8.md)   |
+| Binary Search Tree   | [Assignment 9](./Questions/README9.md)   |
+| Graph                | [Assignment 10](./Questions/README10.md) |
 
 ---
 
@@ -154,4 +154,11 @@
 
 ---
 
-<img src="https://humornama.com/wp-content/uploads/2020/10/Padhai-Likhai-Karo-meme-template-of-Mirzapur-series-1024x576.jpg" alt="Padhai Likhai Karo" width="100%">
+```c
+while(noSuccess){
+    tryAgain();
+    if(dead){
+        break;
+    }
+}
+```
